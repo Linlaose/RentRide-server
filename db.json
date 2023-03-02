@@ -18,6 +18,7 @@
       "make": "Yamaha",
       "year": "2020",
       "type": "跑車",
+      "grade": "A",
       "displacement": "600 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷四行程、DOHC、直列 4 汽缸",
@@ -25,6 +26,7 @@
       "stroke": "42.5 mm",
       "horsepower": "118.4ps/14,500rpm",
       "torque": "6.3kg-m/10,500rpm",
+      "maxRPM": "14500",
       "compression-ratio": "13.3:1",
       "seat-height": "850 mm",
       "weight": "190 kg",
@@ -32,7 +34,7 @@
       "length": "2040",
       "width": "695",
       "height": "1150",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733279390.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=eBBdULTA2feAuoi6%2FDxjLHJZ62RDSwvyUj6TEmJqF5epd4cf8eVF4oX4blhqTx%2FUSY0IflD2pKAKuHEpNwCpdaFlKK7Y35qcxeODkEBDprU9zD0zn5MWk0l9zgvVYO9S8Bs3cFsHDTCvTDWfucy8i%2FJx0R03C5CwUrSZwsEYG15eNwfjlpH03rxAoZWzPgIQ%2FlnInZf0E5yVHHMniCIINJNLum6QD9C3hG%2BMMt9Us7x%2FyS1QmXvP13nHxTTxd7AGgJ%2FECAzOSEvJIW1Y09nXc389NtuQp%2FJBNkRZMHrZyvjIgrRE%2B8BHAg6R3WEfxyRX5EiMexwEZeF3OZqWbQHqlg%3D%3D"
     },
     {
       "id": 2,
@@ -40,6 +42,7 @@
       "make": "Honda",
       "year": "2020",
       "type": "街車",
+      "grade": "B",
       "displacement": "650 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷四行程、DOHC、直列 4 汽缸",
@@ -47,6 +50,7 @@
       "stroke": "46 mm",
       "horsepower": "77.5ps/9,000rpm",
       "torque": "6.1kg-m/8,500rpm",
+      "maxRPM": "9000",
       "compression-ratio": "11.6:1",
       "seat-height": "810 mm",
       "weight": "203 kg",
@@ -54,7 +58,7 @@
       "length": "2130",
       "width": "780",
       "height": "1075",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732641148.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=braWhkP4kc4NH8NNgFscbaa7gBgpzbQZznaTQc%2BWjOBgy920qAruKzK92UBqwNxq%2BJz43zpt9KWGD389fDlOn6pkLgUapUZ%2FrYMerS4WmC5tm9WpqOIv7GhS%2FwvLVT%2BvG2M5OiITj2togRvDF%2FOHxb4gtihTsDkhfJxNlbmBm0Wnki3n9IEnom2fMIRx2vSu%2BYVa30e1FxJJ9qbH3JSLptxkBt%2FwejuTHp2%2FcLKp%2Bijd3Sq%2F%2FJ0BQU7Yh0MgsYTbod1rk4mphrR0c7ob7q6E97gQXfovyAPTm27OAVm9UqwT5D2y30oKYeera3%2BgdD4NL%2F%2FIlTbRAhGuuG56AfMVHQ%3D%3D"
     },
     {
       "id": 3,
@@ -62,6 +66,7 @@
       "make": "Indian",
       "year": "2020",
       "type": "嬉皮車",
+      "grade": "S",
       "displacement": "1130 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、V型雙缸引擎",
@@ -69,6 +74,7 @@
       "stroke": "74 mm",
       "horsepower": "101.4ps/NA",
       "torque": "9.89kg-m/6,000rpm",
+      "maxRPM": "6000",
       "compression-ratio": "10.7:1",
       "seat-height": "649 mm",
       "weight": "251 kg",
@@ -76,7 +82,7 @@
       "length": "2230",
       "width": "926",
       "height": "1207",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733191856.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=WdWpvHV9tY2zO8JN87wJJ%2BukePJJeBSNh4P%2F14BIO3tJhsnbuVGpCsct0FQ6cM6PUAwxauUiW1I8W1jkENVGqf8FA5lZE0fRPpnSFeyjnfAM%2FhpOoCxHJ8NMGtk3tPu4M3HX65fnZmXvxCcbsKSEQ8Tm8K56E2Y33Pfyiloh7h%2Bytxd2RqK68ZJzDMH8m9wgFKtNtKh1pgWu7LavRfp7Zv73drAqxipbDi5xcxDYbjau5uaqYClbnuOAbSI7FHjufzWPqW0dTjGqz7qxN%2FnOf92gnQ4Xz0aJygKd5MdD9eyDBxzmS%2B8O5lQD9zkp3oX4SrwFP0M3ti6Qp1lwu0wZ1g%3D%3D"
     },
     {
       "id": 4,
@@ -84,6 +90,7 @@
       "make": "Honda",
       "year": "2021",
       "type": "休旅車",
+      "grade": "S",
       "displacement": "1833 cc",
       "transmission": "七速 DCT",
       "engine": "水冷、SOHC、水平對臥 6 缸引擎",
@@ -91,6 +98,7 @@
       "stroke": "73 mm",
       "horsepower": "126.4ps/5,500rpm",
       "torque": "17.3kg-m/4,500rpm",
+      "maxRPM": "5500",
       "compression-ratio": "10.5:1",
       "seat-height": "745 mm",
       "weight": "390 kg",
@@ -98,7 +106,7 @@
       "length": "2615",
       "width": "905",
       "height": "1555",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732987754.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=qKK5Kq9ralmsDtuVcHRdAVU7bPKtepN3uqMM8PLZr5eC0H4cP%2BEBoWe5PxFB1qnneO4gU%2B9hfG0iVZ3sFXyApfucFXHoaENLw8i5vl9CYkQ5BXpcCoIygIxaplP4SOxtcr3EO%2BmnZBIi%2F%2F9ygo2ptEGO5Uddi5dF5%2FptjGAkf9AEy0rdZ4USub2vYKL7qKs9COB04E1ZfjKJ6jwH1FztDB3bH8XlRuwF94ygewuEVzdtPNN3LXWVLIDCTzGL2i2j21K00IuKGZx0kJv0%2FPNCWQGUad654fSvPX6xHXJ58Ah999yLRCqUSPU5ZFEM4YkdwW%2B4YtTBhGE3KBXbKZj3lA%3D%3D"
     },
     {
       "id": 5,
@@ -106,6 +114,7 @@
       "make": "Honda",
       "year": "2021",
       "type": "越野車",
+      "grade": "C+",
       "displacement": "286 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、單缸引擎",
@@ -113,6 +122,7 @@
       "stroke": "63 mm",
       "horsepower": "26.4ps/8,000rpm",
       "torque": "2.6kg-m/6,500rpm",
+      "maxRPM": "8000",
       "compression-ratio": "10.7:1",
       "seat-height": "885 mm",
       "weight": "153 kg",
@@ -120,7 +130,7 @@
       "length": "2300",
       "width": "920",
       "height": "1415",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732890397.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Itzn3HOSIdE0%2Ftc2oYHZUVYmagLphOA96Llh5yL3l9HryVkTOIUZP8CnuEkJ7omopB1BgLPT8%2FChlsjS3JgbVa6RNFvEQXv0tbmjqPcYGqN7MfiP69yHznHtmJ7yqBtGgpLPO%2B6p9iKAS7yPpk%2BROEljPXlZ%2BEpvByY98UodwC%2F49hlErB5efADP5JWx6lqObimO9S%2FWQ8LtP7QIMUwJBjHoI%2FqWQUdAH5X45QCcE1oZq2SOLpD%2FIDi0WqBBUz1gdCgx7QddVFWCYY%2BUCODKtioQksoioF%2Fkp1J%2FLXOoBhsXHbvx7KzXoumFWK%2FU1kP5ou66OMp16B01d6F8xl0saQ%3D%3D"
     },
     {
       "id": 6,
@@ -128,6 +138,7 @@
       "make": "BMW",
       "year": "2021",
       "type": "多功能車",
+      "grade": "A",
       "displacement": "1254 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、水平對臥雙缸引擎",
@@ -135,6 +146,7 @@
       "stroke": "76 mm",
       "horsepower": "137.9ps/7,750rpm",
       "torque": "14.58kg-m/6,250rpm",
+      "maxRPM": "7750",
       "compression-ratio": "12.5:1",
       "seat-height": "890 mm",
       "weight": "268 kg",
@@ -142,7 +154,7 @@
       "length": "2270",
       "width": "980",
       "height": "1460",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733124876.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=BieaTEb%2FHUF%2BKOvUjtsEF3syPj6IpYpJTOU%2BHmS2cyarunvrhJOodUqi7WJx9qEkP11v%2FU09uSASi16%2BF2xvyod8Hm88EjZl5oeNihiTQmjSTBQeDiolmfdHrBw%2FwrVvUz9hbbWKf83f6o7oSOLdihbgbokFlVcl6txBDKfairBchWzGioX%2BtAqIZx3cTVd0RBN2UBC%2FV0fE%2FxMP0n0Ez%2B8CDf%2B9KnSwgfB3xyAPVrq4BGd4wk4QH2iE%2Bg2eQd%2F9X5jO%2F%2Fx4rhNbNXiWvMQMg1li4ddV4eX5HMPpbRGMM9woYkkfsnqr1iXOl889MzfgzVgS%2BDYwh7Mx3J47STwLpQ%3D%3D"
     },
     {
       "id": 7,
@@ -150,6 +162,7 @@
       "make": "Honda",
       "year": "2022",
       "type": "大綿羊",
+      "grade": "C+",
       "displacement": "330 cc",
       "transmission": "CVT",
       "engine": "水冷、SOHC、單缸引擎",
@@ -157,6 +170,7 @@
       "stroke": "70.8 mm",
       "horsepower": "29.4ps/7,500rpm",
       "torque": "3.26kg-m/5,250rpm",
+      "maxRPM": "7500",
       "compression-ratio": "10.5:1",
       "seat-height": "780 mm",
       "weight": "186 kg",
@@ -164,7 +178,7 @@
       "length": "2145",
       "width": "754",
       "height": "1360",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732972559.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=kcxTwnIuCIImIq%2F0Jg%2BrDbXynwA9BpITYd%2BDNne4uh%2FHZ3Dqg9rhn8VpsMRGSFXYxRm0LE5ftTV77fR4oxGvYeMGUtfC3ksHf8StWqo68q%2FmVEq2DcpYo1rQ6soejEivLocY0wbeZzQSX9u8anEG%2BIiCjMV7%2FbsJ5FCasSMEHanTYU%2B4K0JCFGmRp3BLqxIvJ3Rq4R8D8ucDlMie14XH9Nd50oCfuOsNwIB6pWYyhtwCG8exGCe6xB0pWSo3yPamrmgE4CBObyJF102zwqn1MAYjXYDOio4QstVY%2FnyJWmT9NE1UlKyUWJ4oPgV8e64amgx%2BXbJCF1DfA6DvfwbONQ%3D%3D"
     },
     {
       "id": 8,
@@ -172,6 +186,7 @@
       "make": "Aprillia",
       "year": "2022",
       "type": "跑車",
+      "grade": "A",
       "displacement": "660 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列雙缸引擎",
@@ -179,6 +194,7 @@
       "stroke": "63.9 mm",
       "horsepower": "76ps/7,500rpm",
       "torque": "6.83kg-m/5,250rpm",
+      "maxRPM": "7500",
       "compression-ratio": "13.5:1",
       "seat-height": "820 mm",
       "weight": "183 kg",
@@ -186,7 +202,7 @@
       "length": "2145",
       "width": "754",
       "height": "未測量",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733152962.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=gHoMKrO%2FwVfFEB2acrznck3KP7OaMk%2BO6eIwiABzDkgLtQBhML0qqJbyaPz7GDv9ZJjiAng1d1eGNmwn67XYHek0bnBMVDunDS6eTN5zYhhYJ4oH7fBsQpW5ohDPzcBtIwuvWqvDz%2FJ53sH60%2Bj%2FiaLwTJPHwGSw2mls3r5yeGUQSll%2FKBUa18qihWWuk5FKhuZrnj189Pj5qSGeErlsbBZgwXeESa3fofLWjL0DtTGpxFfLq5bpPf2xx228HMk%2Frn0A2iPeuZvzQ00BzRtNe8%2FM2%2FKxKlnJKP705Vz7BiLz%2FSUixUMQMnjddcrC92I2CtcMxdHMtY6OMZWKLXomjA%3D%3D"
     },
     {
       "id": 9,
@@ -194,6 +210,7 @@
       "make": "KTM",
       "year": "2022",
       "type": "跑車",
+      "grade": "C+",
       "displacement": "373 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、單缸引擎",
@@ -201,6 +218,7 @@
       "stroke": "60 mm",
       "horsepower": "44.6ps/9,500rpm",
       "torque": "3.77kg-m/7,250rpm",
+      "maxRPM": "9500",
       "compression-ratio": "12.6:1",
       "seat-height": "820 mm",
       "weight": "147 kg",
@@ -208,7 +226,7 @@
       "length": "2002",
       "width": "873",
       "height": "1267",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733138988.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=M2oh%2Fn66McdTm25u7LboaVqxk2ze1xYEqHFy%2BX8FzKH7pIIwRm5ZqJEkXn9HkqZhaA85T6jJJFSf2vEpbyjgtfmaPS49RqNwTO%2Bjy3UtaVQp%2BThBAOOxRiH7Q2FMqBaASspSvl%2BYIkWm5wkcewd4QbvhV0lTtmquiElN4pfgAHqLCNT7JtCovICmv1%2B2vXIt1CaHHI0llz%2FociDyPgELzfARaijEk81yZH9cyOHdY6p%2FExCtZfiQsveooEqbvLE4jvBfyGOl8Nga4A4gCwp7jmBLtKbc90xsKvK70EacncjvM7lrTSxkaPAY6luFIFtvVoLScLLkLFD91MkSYzcb%2Bw%3D%3D"
     },
     {
       "id": 10,
@@ -216,6 +234,7 @@
       "make": "Yamaha",
       "year": "2022",
       "type": "跑車",
+      "grade": "A",
       "displacement": "689 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列雙缸引擎",
@@ -223,6 +242,7 @@
       "stroke": "68.6 mm",
       "horsepower": "74.2ps/8,750rpm",
       "torque": "6.8kg-m/6,500rpm",
+      "maxRPM": "8750",
       "compression-ratio": "11.5:1",
       "seat-height": "835 mm",
       "weight": "188 kg",
@@ -230,7 +250,7 @@
       "length": "2070",
       "width": "705",
       "height": "1160",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733294869.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ELCU9C36N0XTVDNDwD2t2is4Tgcb5SrtNKFptVBaVDPRtn2v5l9nip75fui%2Bi32qCSuTtTacRA%2BoCyYPgxiz6YeZ4kZEzaw6tktsQq2s%2B6EWFdKD3L5Ep8sVQ0WOfnrZfNxT0q42XRQbcjgznaB7ul%2FajaBUX2hY%2FwBCuFMsqCWccwGp0ycbAzT1B%2B8vD34wxlqUKORqDIadlb3TwZxWDSeMIUoDV05HVNZ3iI7x%2BVQZXqDGKcyD8AQGznUV6%2F8o3JsbsSNulx3CREol2CsblwGQQpoMv2fArRrOSaCAaCbFGhRd1f09q7ivSbhK4yT9JRLqv0qEHgCg0TiGE%2FhMwg%3D%3D"
     },
     {
       "id": 11,
@@ -238,6 +258,7 @@
       "make": "Yamaha",
       "year": "2021",
       "type": "大綿羊",
+      "grade": "B",
       "displacement": "562 cc",
       "transmission": "CVT",
       "engine": "水冷、DOHC、直列雙缸引擎",
@@ -245,6 +266,7 @@
       "stroke": "73 mm",
       "horsepower": "48.3ps/7,500rpm",
       "torque": "5.7kg-m/5,250rpm",
+      "maxRPM": "7500",
       "compression-ratio": "10.9:1",
       "seat-height": "800 mm",
       "weight": "220 kg",
@@ -252,7 +274,7 @@
       "length": "2200",
       "width": "765",
       "height": "1555",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733221135.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=UyFGgCQ4bJ%2FN9IptqNeTEQ90llzgH9Z2A%2B0uHyyUEJx262hKTIY5Eur46p9KYtnj2WBfS2Vdo5Hsbg%2FdmSmEfOmbtcP4i0tJFAvMgMey2tmbrQZdxyRZSxkge9yYQ45wBp%2FmjGsRYSBI3cRqSSGRwT6XH6%2F%2BMQtUMolplRc8XScXF3ERvv%2Ftdfbr9cZBJpE5gL77yRyMWezRk66z3J9Tzg7mYzFOYqO2UZug0cfj6sK26oT4p%2F0EygF%2Fd9gavW9ZOcU6WWdEAFNG3DujaERMIYgAyS0qPCa85G4r4J1ZhQjhaUSBc65RrhcEMRe%2FbWJD960Um45eV2L2xC2wUFa2cw%3D%3D"
     },
     {
       "id": 12,
@@ -260,6 +282,7 @@
       "make": "Yamaha",
       "year": "2021",
       "type": "街車",
+      "grade": "B",
       "displacement": "847 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 3 缸引擎",
@@ -267,6 +290,7 @@
       "stroke": "62.1 mm",
       "horsepower": "72ps/6,000rpm",
       "torque": "8.6kg-m/6,000rpm",
+      "maxRPM": "6000",
       "compression-ratio": "11.5:1",
       "seat-height": "825 mm",
       "weight": "189 kg",
@@ -274,7 +298,7 @@
       "length": "2090",
       "width": "795",
       "height": "1190",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733096088.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=D%2BBWgkRuB11Dxc6jsMDS1aJDU1eKR9MuTagNCyoUlRHKs%2FZprVKzRTpSwmgHI0Hms2V%2Fis489ywq9SqMJpbae7Dw9gfFnKtHe3jZBBkXyKybkcFUgbdolxAtVxQH2gP16UcMBVAvP%2FT48pSoZcx0cXYW0hRW1P9nFVomqlvql19eK4hoJ%2FVmVltWvKX9%2FYOHR24Dfzd1v0J05gnDpBC%2BiZ8K1i470bz942OI9F9%2BmUd%2FzY9aP3uNBCkHIBVwK1bNafv0cFmUGmR0maRgSVZUgjBiZC65Q0hsrzSltlpHg3hVYIQ1v5vl5LD%2BKxX8BCCi2JgHlf81U5aN2EK97LXKHg%3D%3D"
     },
     {
       "id": 13,
@@ -282,6 +306,7 @@
       "make": "Yamaha",
       "year": "2022",
       "type": "街車",
+      "grade": "B",
       "displacement": "889 cc",
       "transmission": "五速鏈傳",
       "engine": "水冷、DOHC、V型雙缸引擎",
@@ -289,6 +314,7 @@
       "stroke": "83 mm",
       "horsepower": "47.7ps/10,000rpm",
       "torque": "9.48kg-m/7,000rpm",
+      "maxRPM": "10000",
       "compression-ratio": "11.5:1",
       "seat-height": "810 mm",
       "weight": "193 kg",
@@ -296,7 +322,7 @@
       "length": "2155",
       "width": "860",
       "height": "1155",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733232542.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VmlY4sQ%2B9I1XoaVnSP7aSGjnqvoxTj%2B2zzzUiCVB0vcpunMLan%2F2WI6VLy%2FWPHgLrgU5G%2FkVPGhQtmpo5dBhWW%2BJoJ8EAVn4F%2FhKZqKu2GJiRVXqN8ttXp0bbJ7H6vwPqGknR8N0dTKDs2z67XlrE7Vg8LmI8pG3%2B0bEd2nbGehEBCXgYngWw6R%2BnuFeCSJkvbLsLDI3GWf8FqDF%2BSd3t%2B8geCadtkFwSUuujx5%2F57So9flraj3fALkgR%2BZjSzWl9NVRhaHdar10JerhR4TjUEbAT8TxP9Sx7vXD59KBSIP8go2ozq3ezEqaktPawWeIKevd8Rc3YWO5qxCQ3TSbLw%3D%3D"
     },
     {
       "id": 14,
@@ -304,6 +330,7 @@
       "make": "Yamaha",
       "year": "2015",
       "type": "嬉皮車",
+      "grade": "B",
       "displacement": "942 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、引擎",
@@ -311,6 +338,7 @@
       "stroke": "73 mm",
       "horsepower": "53.7ps/5,500rpm",
       "torque": "8.2kg-m/3,000rpm",
+      "maxRPM": "5500",
       "compression-ratio": "9.0:1",
       "seat-height": "690 mm",
       "weight": "247 kg",
@@ -318,7 +346,7 @@
       "length": "2290",
       "width": "830",
       "height": "1120",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732495613.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=hL9qF9EGczLdisCV1oAxVrgox4fimNWhcnJTbBFSpxl6Cs0Dr%2Bs3XR5CAdUFtPWqChYO63RgOSA2lqf%2Bn0pl9WCzoRzmwQKy6Su7Nvrh8UbHUvQKHcr0YV8ZK5hltiaQSkUJI7rq0qDNi1DrcvWo%2BV9KIXSRJ1zFxNA%2Bqkc5GZSlDBDTULtnsCR9uCkj%2BpLoZS2i4KNjGnk9DAHD385N4Vj0uV5kwuXU9a6a7dbHhhfQ5%2FZHFcRcXX%2BIktiPCOoQyyVmLz%2BXfp15xv%2BC056JtS3xxUO%2FfFfoZYDpE0W3klDrE3GA%2BEmD9ZcPthoFqoyETrsfB2C2wlm7C9IYB8WnXw%3D%3D"
     },
     {
       "id": 15,
@@ -326,6 +354,7 @@
       "make": "Yamaha",
       "year": "2015",
       "type": "街車",
+      "grade": "C+",
       "displacement": "689 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列雙缸引擎",
@@ -333,6 +362,7 @@
       "stroke": "78 mm",
       "horsepower": "75.8ps/9,000rpm",
       "torque": "6.9kg-m/6,500rpm",
+      "maxRPM": "9000",
       "compression-ratio": "11.5:1",
       "seat-height": "805 mm",
       "weight": "182 kg",
@@ -340,7 +370,7 @@
       "length": "2085",
       "width": "745",
       "height": "1090",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733084870.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=p7N7SHxXOSWDvTlA8%2FIxumxWpfQbaSb65Pj%2FXhaEhMRpTtuzYYvimzW3BycND6TjTAZEFWavJweGpAYVpJdhBIR%2BXvcElCPbjH9b143FcCl9mCEp%2BXxVx5HndrKMzbGbkoq2WgbiRxm780XW6GumSUFyNnM4i7VsU0YFMXxcTrdkRtxy5qg76LhjYqFKpnWaivRVA6bO9Ao4AMTkLzzbDbY2R202dicT8E%2BQJ7ZXkTI7tnVw%2FsGvuFIl9wBR1gVu97Pc65nDWFLM6FgH2p0WB7aHUoaQVbScoHc1e%2FT6dIwNIHN0Flfuo5yLnqR0yGXBVwqt7eLqW9MPT2vTMD6UuQ%3D%3D"
     },
     {
       "id": 16,
@@ -348,6 +378,7 @@
       "make": "Yamaha",
       "year": "2022",
       "type": "街車",
+      "grade": "C+",
       "displacement": "321 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列雙缸引擎",
@@ -355,6 +386,7 @@
       "stroke": "44.1 mm",
       "horsepower": "41.6ps/10,500rpm",
       "torque": "3.0kg-m/9,000rpm",
+      "maxRPM": "10500",
       "compression-ratio": "11.2:1",
       "seat-height": "780 mm",
       "weight": "168 kg",
@@ -362,7 +394,7 @@
       "length": "2090",
       "width": "755",
       "height": "1070",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733066874.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=CkwK597gEW8%2F8xj1N6cb7FExmRpe9r51kT3dP%2Fkn26ic7tTlxdkfNzg5PMhMl0wkFjKGQyskl11aGa%2BYZVl8xtswAouwYHt9zqzm0TanGC0xCNiIixH%2Flpzs2E6Sdemc8OCjVozNIK2VOBF65%2Bo8BRiT%2BDVrwVnrJzFSitALRK42gumJFnKbmZTNsOVdaFW5%2B7%2B%2BTD57K761rhCWhLJooXoKplZEZOaOkm5ZMrlWOZPpManHnsRR5b06wUt7wtynAi8yibGQhnlAG33akqoUCAj2mBCTcYPT%2FHeVS2SLc7sIUY1zgR3DG6cbtFzBf6DQvlSGE7HlRAyzSdqhTsT%2B8w%3D%3D"
     },
     {
       "id": 17,
@@ -370,6 +402,7 @@
       "make": "Yamaha",
       "year": "2020",
       "type": "跑車",
+      "grade": "C+",
       "displacement": "321 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列雙缸引擎",
@@ -377,6 +410,7 @@
       "stroke": "44.1 mm",
       "horsepower": "41.6ps/10,750rpm",
       "torque": "2.9kg-m/9,000rpm",
+      "maxRPM": "10750",
       "compression-ratio": "11.2:1",
       "seat-height": "780 mm",
       "weight": "171 kg",
@@ -384,7 +418,7 @@
       "length": "2090",
       "width": "730",
       "height": "1140",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733260826.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=iux5yfxPB0Ui7pBfJ%2FVN7OdEgYO07yqKWKIA5qSYdqy5hff92BN1KH%2BGPhCc%2BjZKxgFcDithQpHo%2Ftqbhc%2BjCqJB8Iy2IQlbCYVcSPmkTV%2FwfRRF5vEr8XYS%2BpqF3w5wkGQy1QDEP5XLUWwuT1brFkL8wj4bmIVeEjCphEYEtA7t1bwcUSbscQefvyk%2FYnlmHT1CUPQrvREjKYlKyAF%2BeMu842cwQBQ66fNBs1AAxMzevZrzEybTG5Z%2BHFdfNnRq3ON2jYfPExWE2gWzHGG7AEMgJzY8tWW5ctPDY0Z%2FD6HVTV2H3f5oUZuhBBEAMhn7pN0IBhQNDw6ibcDa96FRMw%3D%3D"
     },
     {
       "id": 18,
@@ -392,6 +426,7 @@
       "make": "Suzuki",
       "year": "2021",
       "type": "跑車",
+      "grade": "C+",
       "displacement": "249 cc",
       "transmission": "六速鏈傳",
       "engine": "油冷、SOHC、單缸引擎",
@@ -399,6 +434,7 @@
       "stroke": "54.9 mm",
       "horsepower": "26.9ps/9,000rpm",
       "torque": "2.26kg-m/7,300rpm",
+      "maxRPM": "9000",
       "compression-ratio": "10.7:1",
       "seat-height": "800 mm",
       "weight": "159 kg",
@@ -406,7 +442,7 @@
       "length": "2010",
       "width": "740",
       "height": "1035",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733207805.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=d0qJl0HQ%2FCs8ZNaw6cqjYXMZi%2FpTSfoMz3tccvOXAKrAtzMReA5MuACEFgXhNkEMwQiCBikZY5GT0UD6IcZnqbHP3nvIOaCngXgqgi0DxzuZ8LXXvhxWKAAdG1tt6WZ9qQ40W5LcbPFuloRw%2FqhFYBSq7%2FFwPlosqd5DJ8J%2Fv%2FrMpZ7l0VfMZlhSqrk825r0I7z9gqVZ55r5JnpcdKD9Sw3vvxi2KXTdUHVhQ523CyPeGMfV4RLhNOxhsriM1kdxVcY%2B3tUhW9qrQjboR4COaUCC5x%2FvoSEh4CThYJRcBcK%2FLwkMynfY8GdjSJVmxpzp1OyYzF58q%2B5czcGS7iXcVA%3D%3D"
     },
     {
       "id": 19,
@@ -414,6 +450,7 @@
       "make": "Suzuki",
       "year": "2021",
       "type": "街車",
+      "grade": "C+",
       "displacement": "749 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 4 缸引擎",
@@ -421,6 +458,7 @@
       "stroke": "46 mm",
       "horsepower": "115.6ps/10,500rpm",
       "torque": "8.26kg-m/9,000rpm",
+      "maxRPM": "10500",
       "compression-ratio": "12.3:1",
       "seat-height": "820 mm",
       "weight": "213 kg",
@@ -428,7 +466,7 @@
       "length": "2125",
       "width": "785",
       "height": "1055",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733021074.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=nrv4iedOMBgLMNsszomp3Tflxk5k0Dy4hhBlYjucEcIbZiFUOt2TnGIkbyJxi4ZsZtlObYYj1X0veH6To83zYzmJcC0mVPtDF%2BzgA%2FqEyYEG4GNyfZpNEjWi41teVpuI5AmDWbTVPnckiPbqEdZ5kFZzmcLcK0mKx7BuIHL7QKb0AmIqhH6bqxvsUIkzxziweDMILEJlPFblmrb3GM1%2FHc181pVZq4TFlBpbPQ1CruFzXopKUglAbBjXTPze3GiLptG27jp5uSRTGODWNoXfwoCjEC%2FqR7OMu0Xa50Par0abVKTejnrqBuV%2B%2Fw2EbB1lfUrUtvWKTzle5GahzQsiLA%3D%3D"
     },
     {
       "id": 20,
@@ -436,6 +474,7 @@
       "make": "Suzuki",
       "year": "2016",
       "type": "跑車",
+      "grade": "A",
       "displacement": "599 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 4 缸引擎",
@@ -443,6 +482,7 @@
       "stroke": "42.5 mm",
       "horsepower": "126.7ps/13,500rpm",
       "torque": "6.9kg-m/11,500rpm",
+      "maxRPM": "13500",
       "compression-ratio": "12.8:1",
       "seat-height": "810 mm",
       "weight": "187 kg",
@@ -450,7 +490,7 @@
       "length": "2030",
       "width": "715",
       "height": "1125",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733003311.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Fx6BWRnQMU7oeAGkd41OxiOenv%2BwdLUUiou4ilON0NMb8HEN3iNovCQwS1pMtGQzhCE5JAup01hSsL8DYeQ8DeoEJh%2FjN12PRP3Sb9b7Argy1%2BqPz4rlEkG5rO9FqQ0bsfL%2Bnn%2B0dSr6mPHiI7Z6%2FTIFN8gWtFyVip0FTNs5klrsHMCoSKj0TWShhlGtfIm5Zq1M5zZ96MZE7FhDSbL7KlTiKSkbLF8VYhoOUZRCr%2BAu3%2F%2FQMhhcv8VSmJAN4zTHzZ6vGA1236RX0%2F3Lc%2FM5M5pGhujmtxcopg1ipRh5OTHgLtaA%2BDWeikj3osg2cGnEPNXjFfc8DLk59Wl1tUq8VA%3D%3D"
     },
     {
       "id": 21,
@@ -458,6 +498,7 @@
       "make": "Suzuki",
       "year": "2018",
       "type": "大綿羊",
+      "grade": "B",
       "displacement": "638 cc",
       "transmission": "CVT",
       "engine": "水冷、DOHC、直列雙缸引擎",
@@ -465,6 +506,7 @@
       "stroke": "71.3 mm",
       "horsepower": "55.8ps/7,000rpm",
       "torque": "6.3kg-m/5,000rpm",
+      "maxRPM": "7000",
       "compression-ratio": "11.2:1",
       "seat-height": "760 mm",
       "weight": "277 kg",
@@ -472,7 +514,7 @@
       "length": "2265",
       "width": "810",
       "height": "1490",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732563086.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=fj9KykknxCHAY2e4%2F3X3LXoPgo7w1MnArpUWQj1H2eDY%2FqxcrSK0x4s%2BiDDfd7KDji7hf4w2XFn6rnK9Hnmy2QKR4X8l8re79mCxLshb7vhjABjQB16BpsT7CQ4Lcd04jEJO55xa1f3XLeGWtKMXt3NtoBRhMDn0bmzt6FukWUAqjns1JDE9Kym4JdbJOJaKV6V4DbZSruKyuyohGv5MuOry7fy2RoqWCU757hz4kcqdm0KLRtd7B%2Bys2Wcp68zI4x2%2FaClj3BlCJNmZAq29n4Yluk12q5wa5ULcCGXTJ4X4gUd5MBZUz%2FSnJCxZbudy4d6zzzUNCqildP%2F%2B4LcQbQ%3D%3D"
     },
     {
       "id": 22,
@@ -480,6 +522,7 @@
       "make": "Suzuki",
       "year": "2019",
       "type": "街車",
+      "grade": "A",
       "displacement": "999 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 4 缸引擎",
@@ -487,6 +530,7 @@
       "stroke": "59 mm",
       "horsepower": "146ps/9,500rpm",
       "torque": "10.8kg-m/9,500rpm",
+      "maxRPM": "9500",
       "compression-ratio": "12.2:1",
       "seat-height": "810 mm",
       "weight": "210 kg",
@@ -494,7 +538,7 @@
       "length": "2115",
       "width": "795",
       "height": "1080",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733052548.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=JIdxzGgNH5d%2FgWe1%2BecLvLPYEqrb0jVpNwpYEFe564tl61sAOKCLS9oz%2BWhJAWlCxgx9%2B4bFaAjYDcTX%2Bk0IX4s7VqD50Gzk%2FjQvMiyPR%2BE18q1KIwcDNPP%2FHdW5CWmWdSmVz0Ddv8YODwvri10q7j87x0VxRFDTu%2FN9ph91kaVM0IDwLXQ%2F1XgFYuCgI4zUmXIz5a23EmlaDlui2orEx2dooDTlbagjKCIh%2FUm3zkcu9kZDijGMfNY66ykholjp48KIFmTkYA8CTIufhAzCks1sr6lvTb5VioISip8rHngiy280qdyGgCE0IM%2FPnWMFMsRceCry2CxUJO0s8gmctg%3D%3D"
     },
     {
       "id": 23,
@@ -502,6 +546,7 @@
       "make": "Suzuki",
       "year": "2022",
       "type": "街車",
+      "grade": "B",
       "displacement": "948 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 4 缸引擎",
@@ -509,6 +554,7 @@
       "stroke": "56 mm",
       "horsepower": "107.4ps/8,500rpm",
       "torque": "9.5kg-m/6,500rpm",
+      "maxRPM": "8500",
       "compression-ratio": "11.8:1",
       "seat-height": "800 mm",
       "weight": "212 kg",
@@ -516,7 +562,7 @@
       "length": "2070",
       "width": "825",
       "height": "1080",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733304591.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=V%2F6kpyHDkRp2YVFuyQb0LcVfQb9M%2F3zMn40W2pYo7Ow%2FpAD5y9tuC9MI3rPlW5MUluGNZ2AktH9XlbaIU6%2BeCcwtkVxz6v9Q%2FYIHsjR7dnvR0FXuBCu%2BojcpUYOGGHjbUgy4zDhRaY90cG5RP%2FgHmXqi8I%2F9bgM2gtbFSmYI1ZMiDHY70PLMFM03e4AbcCJoUHorZpGF%2FOJT0cNw6uhOEC85GdNso8or%2F7j0mO3RGUeTUTkksm9iPnneW6vXCgOV11%2Fm6n1ZZwjiqU9huj5wkugkHN51JY8uW3XOmDvSDPSEw3ZJDkwnQynUFIS3QEu%2F%2BcrILwbNQA9nU3gZGhSwaQ%3D%3D"
     },
     {
       "id": 24,
@@ -524,6 +570,7 @@
       "make": "Kawasaki",
       "year": "2018",
       "type": "跑車",
+      "grade": "C+",
       "displacement": "399 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列雙缸引擎",
@@ -531,6 +578,7 @@
       "stroke": "51.8 mm",
       "horsepower": "45.6ps/10,000rpm",
       "torque": "3.9kg-m/8,000rpm",
+      "maxRPM": "10000",
       "compression-ratio": "11.5:1",
       "seat-height": "785 mm",
       "weight": "168 kg",
@@ -538,7 +586,7 @@
       "length": "1990",
       "width": "710",
       "height": "1120",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733109855.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=T%2FON6zLFXX2X085fQOkJ2eJ4%2FhAa0Mr1jeQiZTUuvLP%2BcM8hWyuaGoZdu3mmRUr%2FPbgohp4X71HNPOrCvtslatTjVIts%2FKUmJocmexKk7cFbWx%2FzEkD%2B9rdeyJaKL%2Bf712TFzFLkBGJDkou5UaMHnV%2FQ7cksuTTM%2BljvIaiviPHBGlCW77TZR1%2FfSwq%2BvNxGZCJA%2BEcVN80IILZt%2BKQcl36z0%2BI5f1v%2FJDVkWe6%2B4CijcNkdK0llrOseL6jRNS5gnpgn8ztV5ht3TwRJADPKYDQIFEXPsVZXz8LSB9zdX8G%2FHhVT9cPnvxgYpvSQMMdmX6uaOqr9Sp0sFtx8vKkSmg%3D%3D"
     },
     {
       "id": 25,
@@ -546,6 +594,7 @@
       "make": "Honda",
       "year": "2023",
       "type": "街車",
+      "grade": "C+",
       "displacement": "286 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、單缸引擎",
@@ -553,6 +602,7 @@
       "stroke": "63 mm",
       "horsepower": "30.4ps/8,250rpm",
       "torque": "2.8kg-m/7,500rpm",
+      "maxRPM": "8250",
       "compression-ratio": "10.7:1",
       "seat-height": "800 mm",
       "weight": "144 kg",
@@ -560,7 +610,7 @@
       "length": "2020",
       "width": "805",
       "height": "1050",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732597287.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=I3tUy6wkev0rkJJIgmPoqxCxRCmfzqCeq6ERpGbCrAoQ%2BgjRuGXlNa9Y5GpPPRt5%2BHf34m0f5Jd1C%2Bl5jvzDMIvuf%2F2n1wVphwfOZ3g8cL8EJD48eHdyJ2oxGCJM8TwIb3Gi7AoMCfSfZf%2FXxYTszXbAR%2BmKxVx4OpZ2WcGcMqqsWm7%2BdJV6mRt4oOQ4ZwsZsh%2FA5wX4mcKAGP4Sh%2BuasSF3wU8CZkMrGZ7wVF4AOCpVvf2mWCUKQcbRg7um2UOKRTee8GyhU7FZqfoWf%2FmcGEpazI0%2Fg6eu1rFtxgCYgry2fhGJkxkOAnTu2mB%2FEaksjjwZuGlVH6neObjcMAZrvA%3D%3D"
     },
     {
       "id": 26,
@@ -568,6 +618,7 @@
       "make": "Honda",
       "year": "2020",
       "type": "跑車",
+      "grade": "C+",
       "displacement": "471 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列雙缸引擎",
@@ -575,6 +626,7 @@
       "stroke": "66.8 mm",
       "horsepower": "50.3ps/8,500rpm",
       "torque": "4.6kg-m/6,500rpm",
+      "maxRPM": "8500",
       "compression-ratio": "10.7:1",
       "seat-height": "785 mm",
       "weight": "193 kg",
@@ -582,7 +634,7 @@
       "length": "2080",
       "width": "755",
       "height": "1145",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732751146.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=fNB6wnLSls0P%2F2IYKBrZC6u%2B8EjFW%2FLoAj%2BtwrVqO5FvcxJScLW27SOWzSwGD3imGrwc3cPD1T3IYVQ5252oF7xPrsK642Vy7JGypNxTX0wocQJwhLxnADfW6GE0RDQHjjcagJLLXWyAUW7X3V%2Bq%2BRdTC8YsWEecwKA5T%2Fd7Q7u3I0bTcNNw7%2BXPByDyzVk7NlKATEblZ3Rk2rSX%2BWsvTHG3lOY1zdNsj3yPjG0bYehiZPicy0ioYL%2BMdOLxWT3N83vPC8eN5xSQpRS53qBQ%2FSVi0X1CXK3CuySYWk030GEmSokgkQgUerAxWwL9xR0ywOo5dj3BMpq7CF6AuCNdBA%3D%3D"
     },
     {
       "id": 27,
@@ -590,6 +642,7 @@
       "make": "Honda",
       "year": "2022",
       "type": "跑車",
+      "grade": "B",
       "displacement": "649 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 4 缸引擎",
@@ -597,6 +650,7 @@
       "stroke": "46 mm",
       "horsepower": "77.5ps/9,000rpm",
       "torque": "6.1kg-m/8,500rpm",
+      "maxRPM": "9000",
       "compression-ratio": "11.6:1",
       "seat-height": "810 mm",
       "weight": "208 kg",
@@ -604,7 +658,7 @@
       "length": "2130",
       "width": "750",
       "height": "1150",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732816456.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=b0Xv992%2BhFADJYyQM0RKkx4RIhlO%2FyIA%2FYVmRSS0XtXpVpewZGNa0varRhFxhXnFJgQZCD5FQ2JSdzVM60CvACv0QWbHAQv4M%2BcYTpoguTr9JW5h28E%2B0CNAaOIP3rDZFF9ODmyrMyggJMqOCTxPBPONtba%2FIIYdJFQWZyD%2FodjZbbMDp9JDtdOuAG5TM8wBW57SNO%2FSq%2FsQvAupIhgQrWxl8hxxmEFnIiR%2B2MizXokNSr3RXe%2B%2FjAXi5BiScG0rpx4V5cjuvU%2BTyLsTpqJ8QDYowrohU0T7TAw1xnGBjtdBYo%2F7ClreO1qGqjN6M4uqN5fkaqvhZj2gx7lBSMG9aA%3D%3D"
     },
     {
       "id": 28,
@@ -612,6 +666,7 @@
       "make": "Honda",
       "year": "2022",
       "type": "街車",
+      "grade": "B",
       "displacement": "998 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 4 缸引擎",
@@ -619,6 +674,7 @@
       "stroke": "56.5 mm",
       "horsepower": "89.8ps/7,000rpm",
       "torque": "9.2kg-m/7,000rpm",
+      "maxRPM": "7000",
       "compression-ratio": "11.6:1",
       "seat-height": "830 mm",
       "weight": "213 kg",
@@ -626,7 +682,7 @@
       "length": "2115",
       "width": "789",
       "height": "1090",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732728609.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=hVXNGv4Wk6YjFf2X7sLT8sbhoojzk3NS1gsmF7d%2F9FYCCkw1zzqzn0Qvp0sy1WgaNjRxkZ9%2F5JBnMOeEaTZa8gYbwPdi%2FVM2jIiBkI64l9GgvJAYSNZMuOzj7QJ4gnk8Vq9ddHKuj2b9E4xTvHxLXNwO4yX83t0Qt0DkcaT%2Fj77NKM2YW5YLZR3z6rLqeD0LPZ2wV%2FKU4mkQ8mAb7xS4YLHR79g5vXK6gZEdi3hpb4ZYnqX7Ftv9088xzo4Uu55hoPKnEBH5EnLWvNeoZbcd7R57jql2G18%2FYOKEH6YQL3FtvSTeQLt3C7EgtuL%2F%2B3YpzZoZbwexJOt39ew3XOocew%3D%3D"
     },
     {
       "id": 29,
@@ -634,6 +690,7 @@
       "make": "Honda",
       "year": "2021",
       "type": "跑車",
+      "grade": "A",
       "displacement": "599 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 4 缸引擎",
@@ -641,6 +698,7 @@
       "stroke": "42.5 mm",
       "horsepower": "121ps/14,000rpm",
       "torque": "6.5kg-m/11,500rpm",
+      "maxRPM": "14000",
       "compression-ratio": "12.2:1",
       "seat-height": "820 mm",
       "weight": "194 kg",
@@ -648,7 +706,7 @@
       "length": "2020",
       "width": "685",
       "height": "1140",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732767732.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mQ6azs%2F6%2BfAAdC2LVgdD%2F0EKv6Mb45AQKrGMzIks2nZCyFJxGfLYsQLMSJCt%2Fi5lfYxNvqjlJ2qg9rlUnO%2Bi%2Fm720FTy2MvPNsfhqn9U7npgwo51cDzJf1eaFoD9QPRmnrNAdmrX79GOP5Swskjl6ga2z5WscD35vgoei%2FkuRK%2BFaBhzXQL3dvZNV%2FuMThK3LkSkfNuNOvZm33Ul4dPxkGrTaoObQw%2Bvi7Qqe4tt2qjUmHRd%2F1NmcnRaUV9ua1WggflYxhlj7%2FQD2Dudcrh6oXYy0c5iCCRXAX0uTlR8gPfbgq0qHDpJSsVMSt9xwbbE4B3koXuHwT%2F9hvg9IUuRfA%3D%3D"
     },
     {
       "id": 30,
@@ -656,6 +714,7 @@
       "make": "Honda",
       "year": "2022",
       "type": "跑車",
+      "grade": "SS",
       "displacement": "999 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 4 缸引擎",
@@ -663,6 +722,7 @@
       "stroke": "48.5 mm",
       "horsepower": "218ps/14,500rpm",
       "torque": "11.4kg-m/12,500rpm",
+      "maxRPM": "14500",
       "compression-ratio": "13.4:1",
       "seat-height": "830 mm",
       "weight": "201 kg",
@@ -670,7 +730,7 @@
       "length": "2099",
       "width": "762",
       "height": "1136",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732833891.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=TXlRA8zXrWKjWO2uzWuNYFnG%2B08ym3O1Ti06SjFOZE%2BAcHDrkMyPiDapMNqdWTf4dor8PcStdJGVlm3q%2B3Hf2XbJp49Vx%2F4AptvYGDUot5BMk2uEAS5opcYIFjgQORARtaM07SS3nOzynAC%2B5M7n%2BqSbrb1%2Fxs1dIWd3p9Njtfrppd1q8j0yEzl0mPr%2B5tnS0mmIXNwPaNy3bo1QlsKBxgM%2Ff7aNpROJsEPlll2W8igrgktm3hzD3HVmMD5o0A9oj60U7sYfFP6To5RkoKwzay4o7TGuyiwgRT0dhkkYnf%2FNLTCCjGEZSltXct24fCqbLiNFSgdK73shLWPbxzquaw%3D%3D"
     },
     {
       "id": 31,
@@ -678,6 +738,7 @@
       "make": "Kawasaki",
       "year": "2020",
       "type": "跑車",
+      "grade": "A",
       "displacement": "636 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 4 缸引擎",
@@ -685,6 +746,7 @@
       "stroke": "45.1 mm",
       "horsepower": "130.8ps/13,500rpm",
       "torque": "7.2kg-m/11,000rpm",
+      "maxRPM": "13500",
       "compression-ratio": "12.9:1",
       "seat-height": "830 mm",
       "weight": "196 kg",
@@ -692,7 +754,7 @@
       "length": "2025",
       "width": "710",
       "height": "1100",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733317006.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=NLy%2FoZ9EINbaYk4pyQEmiS75i6cNxRtBPVNItaNft8LggWHHIafA%2FPGWfPes2M%2B5%2BNYmHCuZwZyyppzky%2BXUUS0to0ZZAoelKBJQiVo8FScRp1jaBVa9lsjnpkf5n2r1aaxejalZD7Vr9mVGW5jiP8P%2F0v9XUTfGyxvcXPRqpa4nejefia3bpjgpor6JaUBj%2FQno%2BoxsB%2FKY5loXkdHXVkBkpZJeaged2w%2B%2BwXEs6nnJtog7zBj%2BLfNeQXqzGjL6ClOpDKxJKbrZljpmsK7MtwesF2fpYgWDcP6DmPjMkl2oztaEX7cgSiCfxhcAi%2FpoHtH%2BiwXHrLYpVBUmDzFq%2BA%3D%3D"
     },
     {
       "id": 32,
@@ -700,6 +762,7 @@
       "make": "Kawasaki",
       "year": "2022",
       "type": "跑車",
+      "grade": "S",
       "displacement": "999 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 4 缸引擎",
@@ -707,6 +770,7 @@
       "stroke": "55 mm",
       "horsepower": "141.9ps/9,500rpm",
       "torque": "10.6kg-m/8,800rpm",
+      "maxRPM": "9500",
       "compression-ratio": "13:1",
       "seat-height": "835 mm",
       "weight": "207 kg",
@@ -714,7 +778,7 @@
       "length": "2085",
       "width": "750",
       "height": "1185",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733327417.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Pe4kFuMHdtRspWnsuXzBOJXr9Ap%2FwHKddX4fZw96tF4yg4NrA47yq266w7Zv6QQhys2TT6Z%2BVMSdPwWHvEecZTDy9ZhDSdpSjcX%2BmQxrSOv%2FYcO6ObvwbS4aGrUZ8V6EkVUcm8G5dc%2F8z%2BUBVm9LbUB1PN1oKXbHgBQ7hf0YLZlwXuqxee3Azf89PAA%2F76ZyhqmFDPBL1UIzxD5%2BjZT9S%2FnL4ukA13j9MApW5OSIztGmu66vqTq3u3LwAtaZ3in7uO5uH7U27hQBthi3yFjjuGP0xueUWffC%2FLDQiBN%2Fk3Cgf9jMRFZyHGbA9FM40fOXNTsuv5ixnyc1qboM61Tlng%3D%3D"
     },
     {
       "id": 33,
@@ -722,6 +786,7 @@
       "make": "BMW",
       "year": "2021",
       "type": "跑車",
+      "grade": "S",
       "displacement": "1001 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 4 缸引擎",
@@ -729,6 +794,7 @@
       "stroke": "49.7 mm",
       "horsepower": "209.9ps/13,500rpm",
       "torque": "11.5kg-m/11,000rpm",
+      "maxRPM": "13500",
       "compression-ratio": "13.3:1",
       "seat-height": "824 mm",
       "weight": "197 kg",
@@ -736,7 +802,7 @@
       "length": "2073",
       "width": "848",
       "height": "1151",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733167416.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=pV6j08huSlmaK7qS281H6vaQO7LDWik9I%2BYbXMFp3dITZTVhSWMZ%2FFu07Mn5DNKcgmZAdZbHfxWA0GDzdvme1xxWIhsGvYF1XRQZtahS9nyqxJGzGxb2xUXztTLJoHGm2Hf5Hp9AQAvJ0%2Boj5QFjuBrZQQK8R0Ec5ZMnv5RvgD30RK3C1odKTAr6pwrcjGVRM1ff24nzLPeWka8zJuKu5tQ77T3KyLOyQFgVMrHmQWzqLVI%2F6dqTMuPOeSCOriFJapL6LPzpy4iCyDqOH%2B1p0wy3BWVuN490MoR3K42HUJlxYsaybPYUJRmgP%2BPBQhLssg0s0ukfFebPyA%2BWd7qgqw%3D%3D"
     },
     {
       "id": 34,
@@ -744,6 +810,7 @@
       "make": "KTM",
       "year": "2020",
       "type": "街車",
+      "grade": "C+",
       "displacement": "373 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、單缸引擎",
@@ -751,6 +818,7 @@
       "stroke": "60 mm",
       "horsepower": "44.6ps/9,000rpm",
       "torque": "3.8kg-m/7,000rpm",
+      "maxRPM": "9000",
       "compression-ratio": "12.5:1",
       "seat-height": "830 mm",
       "weight": "149 kg",
@@ -758,7 +826,7 @@
       "length": "2145",
       "width": "740",
       "height": "800",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732940789.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=C7hj%2BZBgtrlq9dVahVc1z6LcWUX2U9WEMW2%2Fy9jZLcn23INP%2F1yR%2BtBw6HW8vaB5SgyOCLbkl0E01%2BQBeJiEc1BAV%2B%2FOBdtq4pdVwP%2FmpsOtFzEKL1V7dcegtNxoQD%2ByWdw7FhPcvdr%2FAGJfTgQneSp6n7pFyjAadqgOxAKle69kEJnsqMkilKxWDxTO6ObjeRhUmVGETmRiQyUlb7h7nb2oPqn%2Bv2wqh1gBwjNZvqTrcnweP26YidqjejjnRF9xK1Ehwt8Z7scTCetxB4mdU2bHn%2FSoa8LE14t3EgtzZHHxQiKlgwff3Yv%2BtDllIZfJh5GMe2yCmg6AbLX83h%2BBtA%3D%3D"
     },
     {
       "id": 35,
@@ -766,6 +834,7 @@
       "make": "KTM",
       "year": "2019",
       "type": "街車",
+      "grade": "B",
       "displacement": "799 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、並列雙缸引擎",
@@ -773,6 +842,7 @@
       "stroke": "65.7 mm",
       "horsepower": "104ps/9,000rpm",
       "torque": "8.87kg-m/8,000rpm",
+      "maxRPM": "9000",
       "compression-ratio": "12.7:1",
       "seat-height": "865 mm",
       "weight": "147.5 kg",
@@ -780,7 +850,7 @@
       "length": "2062",
       "width": "904",
       "height": "1059",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732958029.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=WX7Eq0MqrY4svjP%2B6Cz%2FwlJ7flSfYWWWYszkPO2lzn%2F3oT63QgNe6BvF994bPQV5TxgeMIr0qMXw3XgNRmpIKkG0fdnazfDEeGm0L0StaE4P7obsllLR0xcOfcdfMCntb5GCjlz95KubWDVLl%2FlD9sOlZTF83y%2BkywOighQMIF%2BMwUFe0HFUo5SLy6GiRk6VkwrfdKVUtQ96baV4kktShss2p1UrVK8a5eH8h4y0MqYqQ7c92t6u%2B5RM3dhvNORMNX3pN7Cjq4yIlxv17jMKhHe9tAoeu%2BIHPf1nCchzDJUVWy7znFvDW6yiISckqfZc1UBThteNgLET8sf6HfknFQ%3D%3D"
     },
     {
       "id": 36,
@@ -788,6 +858,7 @@
       "make": "Triumph",
       "year": "2014",
       "type": "跑車",
+      "grade": "SS",
       "displacement": "675 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、直列 3 缸引擎",
@@ -795,6 +866,7 @@
       "stroke": "49.6 mm",
       "horsepower": "125.7ps/12,600rpm",
       "torque": "7.3kg-m/11,700rpm",
+      "maxRPM": "12600",
       "compression-ratio": "12.7:1",
       "seat-height": "830 mm",
       "weight": "185 kg",
@@ -802,7 +874,7 @@
       "length": "2045",
       "width": "695",
       "height": "1112",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732927020.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=EIgrSXbRpTWbPsAtLxeEK%2F2YR56i136KZ7KIvAOvfK0TW29P6jMghIBPcNp5NfbJQ8g8V8IH8RjXW6bdID8f8fJ%2BBJ%2FZcHNw7D5FVqrr3%2B6W5sYwXez45c6983UpfyFmJJncZRYs6QRqmLqXTVm6G3%2BxDepYAo1E3tWjDt67pCoP1Nv08U6gSoXLsAIEm2o%2BytPTM2aj6SN9gaRMPuP%2FIkRak5lXm%2BsTr4jCjsToM8SzMJ72l39aco9o8MVywiQbRWxHsdrkKHJi5BHrZRlwTRueEjh87vj33dLNZ8Kbob1gFvr9Npl5jKrI2mE%2BGcURW3wZf1as1lly36TJXEUY0w%3D%3D"
     },
     {
       "id": 37,
@@ -810,6 +882,7 @@
       "make": "Benelli",
       "year": "2018",
       "type": "跑車",
+      "grade": "C+",
       "displacement": "300 cc",
       "transmission": "六速鏈傳",
       "engine": "水冷、DOHC、單缸引擎",
@@ -817,6 +890,7 @@
       "stroke": "45.2 mm",
       "horsepower": "38.5ps/10,000rpm",
       "torque": "2.8kg-m/9,000rpm",
+      "maxRPM": "10000",
       "compression-ratio": "12:1",
       "seat-height": "785 mm",
       "weight": "209 kg",
@@ -824,7 +898,7 @@
       "length": "2150",
       "width": "745",
       "height": "1115",
-      "imgUrl": ""
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732435025.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=R3qcSwY%2FqkMl29gKWqX6da02%2BlIgoFwH5FWQ9bGeDz8Ox4qXM%2B3WfFxzizDOhWynnZ6FFunEqUpBeiGpKQraZgssBHbCe1JZe%2BOvc4QbQIc9%2B3q7mc6UPuhPZMyuIs%2Fp9rRqzGU%2Bpx3Nf4u1LPwdxEAaZm3mCi5ylZYcJCFwTAWkGmfnMvyFeLY2usXS%2BHAPN5H82YTnrZcGj%2FukSvhdK7MbZYYu2YMZdVtylY09Yfk2JG7iLTDj%2Bup6W3R4Z0PneFoy6HOXEkNGlvbjm3sMg6ntGNBdmHIQKyQ1sITuECe31iqV6Z3aMOrHZJ8cSa2RHT3QAzGPdsw7POhTxWVLqA%3D%3D"
     }
   ],
   "favorites": [
@@ -883,4 +957,3 @@
     }
   ]
 }
-
