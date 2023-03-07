@@ -21,6 +21,8 @@
     {
       "id": 1,
       "model": "YZF-R6",
+      "on_sale": 1,
+      "price": "688,000",
       "make": "Yamaha",
       "year": "2020",
       "type": "跑車",
@@ -40,11 +42,19 @@
       "length": "2040",
       "width": "695",
       "height": "1150",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733279390.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=eBBdULTA2feAuoi6%2FDxjLHJZ62RDSwvyUj6TEmJqF5epd4cf8eVF4oX4blhqTx%2FUSY0IflD2pKAKuHEpNwCpdaFlKK7Y35qcxeODkEBDprU9zD0zn5MWk0l9zgvVYO9S8Bs3cFsHDTCvTDWfucy8i%2FJx0R03C5CwUrSZwsEYG15eNwfjlpH03rxAoZWzPgIQ%2FlnInZf0E5yVHHMniCIINJNLum6QD9C3hG%2BMMt9Us7x%2FyS1QmXvP13nHxTTxd7AGgJ%2FECAzOSEvJIW1Y09nXc389NtuQp%2FJBNkRZMHrZyvjIgrRE%2B8BHAg6R3WEfxyRX5EiMexwEZeF3OZqWbQHqlg%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733279390.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=eBBdULTA2feAuoi6%2FDxjLHJZ62RDSwvyUj6TEmJqF5epd4cf8eVF4oX4blhqTx%2FUSY0IflD2pKAKuHEpNwCpdaFlKK7Y35qcxeODkEBDprU9zD0zn5MWk0l9zgvVYO9S8Bs3cFsHDTCvTDWfucy8i%2FJx0R03C5CwUrSZwsEYG15eNwfjlpH03rxAoZWzPgIQ%2FlnInZf0E5yVHHMniCIINJNLum6QD9C3hG%2BMMt9Us7x%2FyS1QmXvP13nHxTTxd7AGgJ%2FECAzOSEvJIW1Y09nXc389NtuQp%2FJBNkRZMHrZyvjIgrRE%2B8BHAg6R3WEfxyRX5EiMexwEZeF3OZqWbQHqlg%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678152898416.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=fabVl2ai8YFKGkTvvk23X1sTF5p7bGsiKJ4fVo%2B9QFUpuLxtkzNYNuHMHrPsPgjO4geRuFlNnEfJDCtYgojgDH7aJnvtMhG2wWluJnjjcyz6F8ehTivEZF%2Bon6Qhh%2FPa%2Bra92qW%2FhtLx8ZATXTV3oEodG9dSX1AcwIBlif9gDRM4OYEhZ36vcYOUK%2B4nf2ia2eU2la469cNCJckKKIrCBN8qZdiMpNFRozci0Mg7R%2BnpsoRlamfYTrRJtgBXDbjua2KyfyW1vIorlcBB6qLa1OIQO8NP22fdmJMtlI4WJLYiqZ45yxquahakTaX%2FZ0BFM7%2Fa74z5caAC%2BKH7F3vk2A%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678152937292.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=G0pb6CFlfvYvfpGy6UdI%2FWeTMksuuXV07eUCpIrvRhFzin4UBwCi3n2GHEkebVnkrpgru%2BuGtxXZdS3MHeGD%2Fk63gylbzsSnG4vd%2F5DPkbal9L1Dq4m%2FlZijVcKngZ06lBgypX9f%2B0Ucvr%2FyV%2B0ra4MuFJaNJrnlHtBOUJ4pmAXcBnkReuII56i6n55y%2Fwbos%2F5EkzTwRQGDWB4%2B6A5is224qD8Oe9xpxXLhMOCoP0cTbhzPT7f%2BmbmCeAcirWH3Nx11NZ2C74Q0GI644uKtBdFIIdwDqSqvgE%2BlYFLMSN3T4emCwmDpzHR5nsI8jQRnQw97T84a6c%2F8r335IY0vLA%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678152957999.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=nkNFrqByDA8cUUNAMHPKLZDrqrbODlKVmbuSAJlD5tZxz3DFZjgulHb78XepsxBWfstS2bun4WLfbR8EUIjkAnTviPXsBlJf4UeUNlqX5eM6kbZxKOL0M0v4XijZXJKwYv%2F3Y24WLSa6LHAUoU38nWu7837ZhlAwOxUNRWHdySmmKHgClnwe2Bv5yudwpXtjccUkbwr21KW08stY01bK3WwDsUpwdXzx7J0CmsqTgrxu3HC8Ga3W%2FV8G5WNSW1Z5idOc9qia2KwN4d1pqzvU9VmvjrgNL1cidqa7zDOoAg%2FFNPzGgXtidcWt662MuN8UXoAMMqt%2FH%2Bv8Jw7MG2xIyQ%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678152974054.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=UR%2FFIDaAzFcw11dZkmtIu%2B8ON0l5pytgen8JCo0vvgcyE73scFRz%2FPBrpry7Hma%2BzSG9RGdQ6xOnjsb22gxNaEgIyFu89%2B831o%2BuKnYfhfiTHmaXax8ynFBViTWaNGDU2Pyg9azodRYnn2n3BI54QANCpzLAUEqYsJ14CtuAvxRydFgLkgUXrp4AHlqt5mw3nKYsmuJiBGJCThindZvnFW%2Bw72rrr0cxfm4qaSVX2dWsS%2Bs%2BD%2Bvi9BaXVIxXsrcbxpCDS8w2SOY4GxFGsT0ObdT9Ea%2Bsbl2MAP7mxenM77Zb%2BI%2F%2Bkrk3m9dPW%2Fi6U42qIi9dtyjq3KebnWa5GWTwuw%3D%3D"
+      ]
     },
     {
       "id": 2,
       "model": "CB650R",
+      "on_sale": 1,
+      "price": "378,000",
       "make": "Honda",
       "year": "2020",
       "type": "街車",
@@ -64,11 +74,19 @@
       "length": "2130",
       "width": "780",
       "height": "1075",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732641148.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=braWhkP4kc4NH8NNgFscbaa7gBgpzbQZznaTQc%2BWjOBgy920qAruKzK92UBqwNxq%2BJz43zpt9KWGD389fDlOn6pkLgUapUZ%2FrYMerS4WmC5tm9WpqOIv7GhS%2FwvLVT%2BvG2M5OiITj2togRvDF%2FOHxb4gtihTsDkhfJxNlbmBm0Wnki3n9IEnom2fMIRx2vSu%2BYVa30e1FxJJ9qbH3JSLptxkBt%2FwejuTHp2%2FcLKp%2Bijd3Sq%2F%2FJ0BQU7Yh0MgsYTbod1rk4mphrR0c7ob7q6E97gQXfovyAPTm27OAVm9UqwT5D2y30oKYeera3%2BgdD4NL%2F%2FIlTbRAhGuuG56AfMVHQ%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732641148.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=braWhkP4kc4NH8NNgFscbaa7gBgpzbQZznaTQc%2BWjOBgy920qAruKzK92UBqwNxq%2BJz43zpt9KWGD389fDlOn6pkLgUapUZ%2FrYMerS4WmC5tm9WpqOIv7GhS%2FwvLVT%2BvG2M5OiITj2togRvDF%2FOHxb4gtihTsDkhfJxNlbmBm0Wnki3n9IEnom2fMIRx2vSu%2BYVa30e1FxJJ9qbH3JSLptxkBt%2FwejuTHp2%2FcLKp%2Bijd3Sq%2F%2FJ0BQU7Yh0MgsYTbod1rk4mphrR0c7ob7q6E97gQXfovyAPTm27OAVm9UqwT5D2y30oKYeera3%2BgdD4NL%2F%2FIlTbRAhGuuG56AfMVHQ%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678152859078.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=TJlEiag1MGajZhGKp%2FjPACy%2FKM8au9lGm8rhMcm6paC0Q6Hu6lYP7n5Etw%2FijbZp9lanp%2BMvD6jfP9uTEEWqOiYGRIAQxQo%2BORbrc1%2BLiJr4HmVMni02%2F0LNEsovhj6Cos5oqWEhZvqryazaM9aLVhSJQ76Q6IQXKeZ3DOwD4BePayYWHKBVdLQCU9GI4TgnN6mh10i92oXKKiavYQQJ7bZ3TmACqJjCTDzfBTiISaP2p70vjAv8qc1eaWQwOgr35BRWOFh4u%2FACHrX725RAUP17JcslooKm9EVee3Xga8EfRCufRXnulS8cYhDSpcJCNFPaLyTaQ9QtfNgYyYk57g%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153016835.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=qVAfUKwQdS5bh2FMjGfvPWB0Xoyleer9zWCtnNyUxBbVvuTcHHpBEVUlVMbBC%2FALKA7cjSEYiuTTCN%2F6Gfz0bzNjbORUmzh5TpeHPPESoXCd4woxEzkvwJcDHkivs0MsT1BfbKbhSvTTtC%2B%2F4%2B%2BuaUAgpgG7zdwG6vW08eUbF58H95RZH0TfQOXqzttJqfExBAEsZF%2FH54C9oK3TjM3PoUuMISZyjL1rjtPV0Yjkrn4nMJj%2Fc6n1xskGtDj4QJZX3qoQS7nWjEWWBIGX2IKRJt5XzyaAGvWm0g%2FsqbUxqLjoJUOIR4uDGmss56CkEFT0jivR2hBezLAI3BusBs%2Bp1Q%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153027500.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=eLOdjG1HeECcJ%2FlPtBxth55CHjsK8J%2BARAgdBj5eFMHOZhn4xYZOBgY3D6P0Tj4XNftMibde2Ekuof%2Bl8ZytaY1Kq6jI1u7xgAsikc3fB0UFMMLlMKPXwt%2F6G41wa16jFxBM8ObHXL%2F61i7bLHRWi0E7JxonP2vPB3OjAS9odwAoWqkc5ZOvJ7NglH3uLbBbEphtM4QgJ%2Fhchx08j79VrvhpnQyULOuYOZKJ3qOBP4pE3yPpClqP%2B2te%2B4%2FyLS3CO%2FbjZ94eaKEoyr4ef8k%2FFKLIND1SIEaUWaHwpmVofIBIykHFPQDa9zM9cMCZuCmRivmpbcmnWZLwc21C65DH2w%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153036315.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=KNdYXvDVd8Bwg5mvet0N40IRKRfQSv1MnZeGf5tH2Tqgf%2B8hNhDA956S8moIzSDJoDqNtUT4S%2FclkWory3lWVjvkSoljeRQ11sxXa9W%2F5cPCsgouN1myankJRwhSBXsMLJhiDSxMJrQ4OOh8z9dTXbzlBePhsX3YG%2FzyOQxUNBQ3oBCLu6uViyDildAzA%2Bh6PNNoJnDVKcaxq%2FH6Tro2bBCcosKbgCjfR1B7KIWu9tnxoduVj5KWzu%2B%2FLm%2Frnh%2FGa2eoSb6J7sHKBP3wViBlhl0IomsKof6hti4oa0QiMQV5Ev7ZJS9V0RvAo3d1qCWek7p1%2BuKJ7cgHBDta%2B3rkTQ%3D%3D"
+      ]
     },
     {
       "id": 3,
       "model": "Scout Bobber",
+      "on_sale": 1,
+      "price": "798,000",
       "make": "Indian",
       "year": "2020",
       "type": "嬉皮車",
@@ -88,11 +106,19 @@
       "length": "2230",
       "width": "926",
       "height": "1207",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733191856.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=WdWpvHV9tY2zO8JN87wJJ%2BukePJJeBSNh4P%2F14BIO3tJhsnbuVGpCsct0FQ6cM6PUAwxauUiW1I8W1jkENVGqf8FA5lZE0fRPpnSFeyjnfAM%2FhpOoCxHJ8NMGtk3tPu4M3HX65fnZmXvxCcbsKSEQ8Tm8K56E2Y33Pfyiloh7h%2Bytxd2RqK68ZJzDMH8m9wgFKtNtKh1pgWu7LavRfp7Zv73drAqxipbDi5xcxDYbjau5uaqYClbnuOAbSI7FHjufzWPqW0dTjGqz7qxN%2FnOf92gnQ4Xz0aJygKd5MdD9eyDBxzmS%2B8O5lQD9zkp3oX4SrwFP0M3ti6Qp1lwu0wZ1g%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733191856.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=WdWpvHV9tY2zO8JN87wJJ%2BukePJJeBSNh4P%2F14BIO3tJhsnbuVGpCsct0FQ6cM6PUAwxauUiW1I8W1jkENVGqf8FA5lZE0fRPpnSFeyjnfAM%2FhpOoCxHJ8NMGtk3tPu4M3HX65fnZmXvxCcbsKSEQ8Tm8K56E2Y33Pfyiloh7h%2Bytxd2RqK68ZJzDMH8m9wgFKtNtKh1pgWu7LavRfp7Zv73drAqxipbDi5xcxDYbjau5uaqYClbnuOAbSI7FHjufzWPqW0dTjGqz7qxN%2FnOf92gnQ4Xz0aJygKd5MdD9eyDBxzmS%2B8O5lQD9zkp3oX4SrwFP0M3ti6Qp1lwu0wZ1g%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153112025.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ERPeupc8lGlolxI9G73GhOmPhifOujmAO%2Fn7Cv27VqzTqbJlyuLWSF2q8TtaBieoc2H6PbL0YgQODQ7V1QOpgADyXxy2qp7VWLPiq7xSlXVrg%2FMCcxcdiqUM3I5nfkv9yu5xrK7iACXtbJ7O8TsZJgucqmDEBFAD5f%2BHgEBUDvg5BUpOOeotFYnBUl9reMu3hciiIW5T4wEL5cw0oHBwlJA%2BsTn589O2mZeds1DvOJNUXHzPdxuzUDGbC4zNVpZfpuboRNppCvM%2BobevDlxHpoN0E3PDSyGNIFjeb8pwPYIwk9Ju%2B%2Fe%2BIhNtReILyH2dUvAboSPQdAPg1HjgtfB%2F6g%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153126794.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=OmxBOu59F%2F6KikNetXdlyux0dX7hAKUsQE0wFC0iuYZ6sljSkuCSuM07hecKm3BtiYVVQvhsDIYeOM2d%2B%2Fo7NYIYF7L4U%2BSXrRY9cjXDQeKilViI8LLIRZRR5FKCeLGCMdEi%2FOOsBnSv15YrsnX5GBGOAPKzPbkcIbn5BcYMXutTdmrlkoZh06bw9Eujik2wU26Rm%2Bex14TACdOcxCEjC1DsMraTZM5slgwf4TZ%2FXWoKro9fcsgtTUHsl%2F%2FYj72cmDvDfZd%2FdSOyPpU9icYU7BzANBGShp0zt9AciP4M0%2Bg12Jf%2F7SneNcAiI29p8%2B4T8oC764HbJYvYYxpyM9hKNQ%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153136818.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=OSqY6Z2F73qbhuB0Vf9noSdzBVLxJMJbmNVFYj4xEftYidMf2CqL4JD%2BuQ%2F2XiA%2B2H2J8QX9Oj%2Ba3p8863aIUtjKuSj%2FrC1PN6Emhw5PHoAfU72JY%2FdMDajmXItOQsyROgg53I4D13id%2BF96K4nuK5eUHckth8RU1qFYt9QfZFL4EHftYKaDoYGsvTK9GMRRfVeVYhVskYg%2FQ06Ug30GVhNLQYsHNbW%2Fb04xIwrPvMEVZEMWEQ%2BU43F4Gy8FJWvP1QnEGkT5ac6HuDsYSiWDBGFzG1utmeVWj09Do7zq4h5IlwzCCTSryyqI1dyXqN9d5sBdUr6qiqsrcGvbaVjsig%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153147699.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=I6Uw1h95XsYhIKh2fg64tqBiKqNdyopJKI0U%2BZ0WEpsSHsQfV5dVBTPPtbAYXHwHbRgwYkk8Ye06OKFo00%2B1ntsPKnCCeGK9Yi7S1IlXKtUiMfe%2FZcetOQUAcm%2BrrHNJLjpde8gk4vY3ACmvWC4b8YCBvla2pimuHYtm7gROsFV%2BWzZiG49cVmWsYThJTQJaPB%2B2RuZjXtAyzIZFsolEHRGRFcOI5BYmhKyj8%2Fw5qGd8yLKnCkwGtvOKtq%2FmmPwTQ3XKqN9eDqQXPMAVv3IV0KL2%2Bwbh04vWj8NehLFur51CjwPMQqnyNNiwHjE3M4uHY2tLALWB8nGyPr2tz2G0TA%3D%3D"
+      ]
     },
     {
       "id": 4,
       "model": "Goldwing1800",
+      "on_sale": 1,
+      "price": "1,288,000",
       "make": "Honda",
       "year": "2021",
       "type": "休旅車",
@@ -112,11 +138,19 @@
       "length": "2615",
       "width": "905",
       "height": "1555",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732987754.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=qKK5Kq9ralmsDtuVcHRdAVU7bPKtepN3uqMM8PLZr5eC0H4cP%2BEBoWe5PxFB1qnneO4gU%2B9hfG0iVZ3sFXyApfucFXHoaENLw8i5vl9CYkQ5BXpcCoIygIxaplP4SOxtcr3EO%2BmnZBIi%2F%2F9ygo2ptEGO5Uddi5dF5%2FptjGAkf9AEy0rdZ4USub2vYKL7qKs9COB04E1ZfjKJ6jwH1FztDB3bH8XlRuwF94ygewuEVzdtPNN3LXWVLIDCTzGL2i2j21K00IuKGZx0kJv0%2FPNCWQGUad654fSvPX6xHXJ58Ah999yLRCqUSPU5ZFEM4YkdwW%2B4YtTBhGE3KBXbKZj3lA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732987754.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=qKK5Kq9ralmsDtuVcHRdAVU7bPKtepN3uqMM8PLZr5eC0H4cP%2BEBoWe5PxFB1qnneO4gU%2B9hfG0iVZ3sFXyApfucFXHoaENLw8i5vl9CYkQ5BXpcCoIygIxaplP4SOxtcr3EO%2BmnZBIi%2F%2F9ygo2ptEGO5Uddi5dF5%2FptjGAkf9AEy0rdZ4USub2vYKL7qKs9COB04E1ZfjKJ6jwH1FztDB3bH8XlRuwF94ygewuEVzdtPNN3LXWVLIDCTzGL2i2j21K00IuKGZx0kJv0%2FPNCWQGUad654fSvPX6xHXJ58Ah999yLRCqUSPU5ZFEM4YkdwW%2B4YtTBhGE3KBXbKZj3lA%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153201180.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=llqMRnyX3hIjqrov2JdcLe5sPFj%2BSIOI%2B8ExURDAtaKCpnxNZj8d23Yhcx11QLty28MWTXjPIdFfJikEG9GkX%2BmXcUlrD%2FTc2AYO5LMV2uen3Buja14jKoxalgW97ohgPoAaXy96%2Fz3kqNsG4CQ65v44c1ExfJ%2FYzS5fxA7dn5QvXEP460r%2F5%2BGVLsRTZL3nYUqOrH8Lj2oxLCnTgLF%2FoWh3J%2FdpADYdY%2BA6isFXo0q%2FoP3kzdzsGcHtc4o7Cgwi7brFk8NZ4VHjO9eACFALPBFxCMmjjO%2FMcXB4BXkChXY6ocFenwepXQ%2FPb1aqDK%2FSPw8FK3fk9eMBi1lpVZZyhA%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153205220.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=TCd0AflCpTfWVlSitxH9bRFDzi3mANcIzpBUsp5eUozSDnzdjZLcaZRrU8pTRSFIUfUv2AWIm6Sc%2B6KNaAl6rTOgGcAGTtceMtBSX6m72VhKKd1N2da9yb6J3BR1EFwtHyB8EXyU5bD5RjDqV71TIFJmdgrA4%2F5kwNyN%2Bnp4owfMqTkyV5xPipTCmoNIzzU%2F0qfw5pkk4t4bBvH8GXzlEACjnL%2BhWKZrBaJLkyF2ZlR7nxwjzWV7taCeChmz0u04e1UND3OV6hk3XvQ%2BSuMFBrxIqyDWm7CFYmagbu6%2BpjkTpFc4EQCQTzjQ4k3qcsJo1PN8hxHMlR6NdRrTk5NcQA%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153209164.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=RSCmOXRKUGXyD6F1gnOJEAivNUOmPA8uPGW6OCiJvM9DET0SviqhvdU8WnNSdJIwzwE22%2BvjVQunMl5rrT%2F%2BdeKlqoNolu0eNMyYejVMQ7thwgJzrumPsJMZnT4KxdnHA2O1xkzd1d%2FVxOYX8nwUnbtEnp7w%2B1h6PU2rAhSx%2FZNaOcI6Oc5DRPmKEPn3wJ4dk41nGv4vGJnrlm8yk4JvcXoZkwazy%2BrHuVZdHFVzriTUJ6EEXii%2BkyhYPk8ZWP6izisJlD3S3tTW4%2FaWa6oqtScwE4a6tcI0pJEHfxKDXnb67%2BEU7%2B7%2BRz8sjxW05sY60%2BP8l6Tf%2FJLTiHIlGNhEKQ%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153212536.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ZW62oooR1pNcjG2t%2Bk7HHyNZ5%2FXZDsISf%2F9JP00WI4GbVzaRAOiXT8iHxd5peKedRfd%2FERD5mPtp1JJvcuWcLKzYeMDcXJfQgNQuhwRX%2Fw47XTCdnadBSU75xMx7E5TKZ0EfYzlC9q8VKy5%2F5KnNQrohSV7HLoVWpdUcwn5N57YsOfMxPqX8fHfWB34Q5YGM00dTNZx0e0K%2BrQAha7o6Y%2F0u%2FIHDtCwjIBYV2l2dGzBd6cbn5OoP%2FPbIVDDu0UDIS5U85MEGw8%2BYe2oHVi%2BokX6twO995R97Te%2BbEOZz0KQxpey9GNOGnFoCGx95YbsiuksYseyPlKC01hboZnIkmg%3D%3D"
+      ]
     },
     {
       "id": 5,
       "model": "CRF300 Rally",
+      "on_sale": 1,
+      "price": "278,000",
       "make": "Honda",
       "year": "2021",
       "type": "越野車",
@@ -136,11 +170,19 @@
       "length": "2300",
       "width": "920",
       "height": "1415",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732890397.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Itzn3HOSIdE0%2Ftc2oYHZUVYmagLphOA96Llh5yL3l9HryVkTOIUZP8CnuEkJ7omopB1BgLPT8%2FChlsjS3JgbVa6RNFvEQXv0tbmjqPcYGqN7MfiP69yHznHtmJ7yqBtGgpLPO%2B6p9iKAS7yPpk%2BROEljPXlZ%2BEpvByY98UodwC%2F49hlErB5efADP5JWx6lqObimO9S%2FWQ8LtP7QIMUwJBjHoI%2FqWQUdAH5X45QCcE1oZq2SOLpD%2FIDi0WqBBUz1gdCgx7QddVFWCYY%2BUCODKtioQksoioF%2Fkp1J%2FLXOoBhsXHbvx7KzXoumFWK%2FU1kP5ou66OMp16B01d6F8xl0saQ%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732890397.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Itzn3HOSIdE0%2Ftc2oYHZUVYmagLphOA96Llh5yL3l9HryVkTOIUZP8CnuEkJ7omopB1BgLPT8%2FChlsjS3JgbVa6RNFvEQXv0tbmjqPcYGqN7MfiP69yHznHtmJ7yqBtGgpLPO%2B6p9iKAS7yPpk%2BROEljPXlZ%2BEpvByY98UodwC%2F49hlErB5efADP5JWx6lqObimO9S%2FWQ8LtP7QIMUwJBjHoI%2FqWQUdAH5X45QCcE1oZq2SOLpD%2FIDi0WqBBUz1gdCgx7QddVFWCYY%2BUCODKtioQksoioF%2Fkp1J%2FLXOoBhsXHbvx7KzXoumFWK%2FU1kP5ou66OMp16B01d6F8xl0saQ%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153311567.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=GKEiQyTShxGDw21I1GgoVj0rthUDBJR%2FdtJQQnh5feosn2v7DyP1joRTwMlXIWLJb9ECaY%2BBJESF6MZHkdmAqletuDzz1aS5uDv28CcCS5LzjWczt%2BM%2FdfbcD%2FbUkv%2FuBM7LaWxi9XXz67PgKNZA5lkjnjBUQ3UroHmc%2BqJ%2FeTrWBiGKkXHyzSijBJo0AXVblkVyCl6uWvzdkCsLmS0XIChWw2IlRwxl82%2Bywvh6JbyB9fQdcFCY8ApRFYy2q7OmlpDh4%2FfTXs2v%2BBsxDz66WBwG29Pnwh0%2BWXqa3IYTmhXyxPq1KfHEbNfd%2FABlgrTISAzvA%2FkiojYJOSWIW2%2FmcA%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153313714.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Lqoz9dq8oGQB89uKTRMSYespT9pjZB0D5HNfxv3oePPjESbXl3NmrBsDfRUjDogPu3fHOxyozhBkkQAxL5cAslYdCwikb2H7NB7ZV%2FyRl7XFZgnXc1ngqXFf5Yl8Hj0XfbQLauEPXxTAH94I%2Fq7DaJDVwnFqn90Wsbo4tB0iahzOq9ySOEQ1yLFmE7IX%2B6AdjQQuYx3eHuMuFuwKPTnRRh3TtGKeqY8ZM2tRG2eVZaQjfEWZstY1K42VVsZnBzPHKS5um6XRe49mkdc2Dc%2BHE9WfQpzeqTNtMaolYOmNwNseGUoAGcgEMdMoJLgUMBl6aU5%2BOyONFOH1bTkwILW1yA%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153317739.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=n6IEdujOgBehyIJclguLfg4BLHB500zE8Fr4j4YiuXu13IobdOU36cbAETJxlLMWDQcFqy3A%2BBfbhgR8z9wDgvIe2L6p50UfTraXl2yJlNXJouh8yGWmjhmp2byrR1dhauDGlEEX3TzeSe68ki3hRSzyuKsryUFjs0wzxzYdWEq9GD2ddriELK8f%2FfAzSi7eVzBifdsCfcbUqnHhbcHwtteovvpqf6AyC4AGcyiypjgoPUpJ52u02ZxqOM0O4rF4GDrDqRPWF0kPxDUnXlWhl1JbjMerDLvFyBOifYzD31KoAPpQdw2MFAkSjor3XVaA%2FcSJNaKqru3ujqz5Gx541A%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153319664.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=DP%2B5UFx%2Fe82jtRC9G1%2F64CRFSARVb7h9Gu%2BheKb8%2FjO6bQ6xpqmkrFfvnsbn44H7QUTAK%2FYCQVmdDJHjIIVb9l0S8bRLDd7IOC7rtcqZGJvczAM6xIF4e99DVnC1gRN0DY5NRBoYB1TR6PgcnqvN3SlH%2BpbZgy9Nlum8LU35JC%2F%2BmM4V%2F1KIdgoS0jACyNurY0a2DCwbhxBQSDabsng9NyCOBsJCUTeFOKQe9MzC4MOTqFz3gsp2FQ5ABHQCUkKrTFWj4nWe%2FNK0piKXSGWcYaXbQBpfTPOgqK2XycDl01l77I4tZVwCvWQDGXTeuCYhyO2Q%2BhAPhaMxNW28Qs5y8g%3D%3D"
+      ]
     },
     {
       "id": 6,
       "model": "R1250 GS",
+      "on_sale": 1,
+      "price": "1,129,000",
       "make": "BMW",
       "year": "2021",
       "type": "多功能車",
@@ -160,11 +202,19 @@
       "length": "2270",
       "width": "980",
       "height": "1460",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733124876.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=BieaTEb%2FHUF%2BKOvUjtsEF3syPj6IpYpJTOU%2BHmS2cyarunvrhJOodUqi7WJx9qEkP11v%2FU09uSASi16%2BF2xvyod8Hm88EjZl5oeNihiTQmjSTBQeDiolmfdHrBw%2FwrVvUz9hbbWKf83f6o7oSOLdihbgbokFlVcl6txBDKfairBchWzGioX%2BtAqIZx3cTVd0RBN2UBC%2FV0fE%2FxMP0n0Ez%2B8CDf%2B9KnSwgfB3xyAPVrq4BGd4wk4QH2iE%2Bg2eQd%2F9X5jO%2F%2Fx4rhNbNXiWvMQMg1li4ddV4eX5HMPpbRGMM9woYkkfsnqr1iXOl889MzfgzVgS%2BDYwh7Mx3J47STwLpQ%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733124876.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=BieaTEb%2FHUF%2BKOvUjtsEF3syPj6IpYpJTOU%2BHmS2cyarunvrhJOodUqi7WJx9qEkP11v%2FU09uSASi16%2BF2xvyod8Hm88EjZl5oeNihiTQmjSTBQeDiolmfdHrBw%2FwrVvUz9hbbWKf83f6o7oSOLdihbgbokFlVcl6txBDKfairBchWzGioX%2BtAqIZx3cTVd0RBN2UBC%2FV0fE%2FxMP0n0Ez%2B8CDf%2B9KnSwgfB3xyAPVrq4BGd4wk4QH2iE%2Bg2eQd%2F9X5jO%2F%2Fx4rhNbNXiWvMQMg1li4ddV4eX5HMPpbRGMM9woYkkfsnqr1iXOl889MzfgzVgS%2BDYwh7Mx3J47STwLpQ%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153379259.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=F6sRpO7FzceJm1pT1JpJQ1UFmd7lOtnlHPDkQPogtyl7jxDERl%2FNTNYYtJoKlDIJ5tQGK4pZOemzKG5aXWy9SoJIr4gw5osEXV2pfXsEWtIOCChvL6ZMyufvMqmuO5dZKr5L9R%2BURh%2F6vCDSx83hotfq7TzQwu7qdAULRVC0M6F0B0YEmgBJcePoSInOhoPRQgBx%2FlFLqbsrFXWpHQZypTGmrs7QaD56CpnUQq7ztbIVaxwwuP2I%2BXMW%2B%2Fx8ZV0jFHuBmc198Hajb8iS4CxmpDeAvrpDtxcqcaxiM0Ug5RKhJSt3fpjVw2gTMquXr3FFWy%2BFYwAWF7PD7uLGeuPrRg%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153381587.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=msWQ49wb8bzG%2BIP59M9o9BMMCIuDPD74Uo44SEJUMaXpKHDjeHKlnt8fCRRaL8CN4XUnN6S10dUtaB8aMHNjfIqlbsAYLRC002y6xzdROC%2BADjkM%2F0wrKW6qBKDT1wB%2F25P8QovD6CzZrz%2B1dg3OLSlUJuxvyVD%2BO21be8UO7hZa058sPWfjQt7s930zfbg4a3zEqNjziLQ7kAn0xjJISLvgvVsibEBwdDp4zJgROMa75uo5vqrnI%2Bngt10iSBdMwEkmIq5QpaDGcsHY3H5%2B9ZV59reOE6%2F9spi230P741htvVpPfAgmqF%2FeX9BNfT76J9xQBvl5cDbNUN9l0SBRXQ%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153384053.jpg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=a9qdHADjSVjbhc2G9Wzn6v3jZsqq0dBKCyRc8RPKySd2%2F4BjGLw2CSwLommLBBXn%2Fsn%2B6o1dCodKYUgzXU0hHTqQMKw3kw5xdp5AGvxrmSz4AlejJTBgKeJCYoA7vyJ88KBVYHSkeuUW65JvLNznHg1npeV3PxMLp9%2Bb%2B3%2BlrGWzk5qytkqH%2BX9jZjqYuL2e%2FgvVYIb9yHpAXlD%2BEPOM5%2BNxKDkRAijcF%2Fumvjkjzfgiby7v1fxAC82vL9FN4szXiU3rXBK%2BA%2BzVv2xAlKQjtvizPa%2FSX%2BmQT9IA%2BZtatGmcnqAPcbIO%2Ffz0jJPF0Rqc2YrDlujMoM6YVPFxM9zMuA%3D%3D",
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678153385347.jpeg?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ZWTW4RN6jwK733GFHwwISBmG16F6v1At8IRJvYoss2l6YRs7NFUuttzOePhIJjs7jkdQBjKSUbL%2FiXVz1V74UP9944gIZzP5cKdCIjTOOsjB3gx9p92dhYFsgurZsd%2FgmUkfg97KseZ8X42zMSFfjVIFoKXmVO5Rdy5GXkGuSfwz7HpEkg6%2BMnpe%2F0GBFCbLoI0dMo0gcK8ZXOYCXIBH4wyOq%2Bm7ellxCZLsxcZo1lseIt9b%2BnNn3SuMq3KycahCfdkg9V5f9CuH0JSIRPxD5x9f0urD%2Fu26p8dMI2eOvyXRCjc1nKCt6Kkzj%2FnU4eCEunzA0yXAxZ0CsXMa64EgTA%3D%3D"
+      ]
     },
     {
       "id": 7,
       "model": "Forza350",
+      "on_sale": 0,
+      "price": "268,000",
       "make": "Honda",
       "year": "2022",
       "type": "大綿羊",
@@ -184,11 +234,14 @@
       "length": "2145",
       "width": "754",
       "height": "1360",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732972559.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=kcxTwnIuCIImIq%2F0Jg%2BrDbXynwA9BpITYd%2BDNne4uh%2FHZ3Dqg9rhn8VpsMRGSFXYxRm0LE5ftTV77fR4oxGvYeMGUtfC3ksHf8StWqo68q%2FmVEq2DcpYo1rQ6soejEivLocY0wbeZzQSX9u8anEG%2BIiCjMV7%2FbsJ5FCasSMEHanTYU%2B4K0JCFGmRp3BLqxIvJ3Rq4R8D8ucDlMie14XH9Nd50oCfuOsNwIB6pWYyhtwCG8exGCe6xB0pWSo3yPamrmgE4CBObyJF102zwqn1MAYjXYDOio4QstVY%2FnyJWmT9NE1UlKyUWJ4oPgV8e64amgx%2BXbJCF1DfA6DvfwbONQ%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732972559.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=kcxTwnIuCIImIq%2F0Jg%2BrDbXynwA9BpITYd%2BDNne4uh%2FHZ3Dqg9rhn8VpsMRGSFXYxRm0LE5ftTV77fR4oxGvYeMGUtfC3ksHf8StWqo68q%2FmVEq2DcpYo1rQ6soejEivLocY0wbeZzQSX9u8anEG%2BIiCjMV7%2FbsJ5FCasSMEHanTYU%2B4K0JCFGmRp3BLqxIvJ3Rq4R8D8ucDlMie14XH9Nd50oCfuOsNwIB6pWYyhtwCG8exGCe6xB0pWSo3yPamrmgE4CBObyJF102zwqn1MAYjXYDOio4QstVY%2FnyJWmT9NE1UlKyUWJ4oPgV8e64amgx%2BXbJCF1DfA6DvfwbONQ%3D%3D",
+      "images": []
     },
     {
       "id": 8,
       "model": "RS660",
+      "on_sale": 0,
+      "price": "608,000",
       "make": "Aprillia",
       "year": "2022",
       "type": "跑車",
@@ -208,11 +261,14 @@
       "length": "2145",
       "width": "754",
       "height": "未測量",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677739229572.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=WcmMzdDEzc02OZc%2Frqifwm%2Fg6fULQ8zvpfo1CeEyXn6IAFAA%2BD0qvNX1GKTI4nh5TQLWLCEuz8B5ohVRgAXnXTGv0H8hvO2%2ByHqURjsSi%2FoFqJq7Rzw0rmwPxSSpm1%2BnoPRtZYi3VaHjoWKzZ50V%2B9Ea1RK03hPVjqZDbyWIVmMtVb6wiJ%2Bobo9qMTNFKeOugrNjPmPnT4reKFcLRLJcjO1gL7vTiid8ql7X%2Fx%2F6oYacZrg%2FEvRwjz%2FwuPw7SjaelKXzV3Lvit0hWzn8Xg4AOQZPbZHCaPqlS5c3QGnyhY76khOvafj%2BpjFRVk3PI0xE5P7ySMsfIzj1iTde%2Bfo%2BFA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677739229572.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=WcmMzdDEzc02OZc%2Frqifwm%2Fg6fULQ8zvpfo1CeEyXn6IAFAA%2BD0qvNX1GKTI4nh5TQLWLCEuz8B5ohVRgAXnXTGv0H8hvO2%2ByHqURjsSi%2FoFqJq7Rzw0rmwPxSSpm1%2BnoPRtZYi3VaHjoWKzZ50V%2B9Ea1RK03hPVjqZDbyWIVmMtVb6wiJ%2Bobo9qMTNFKeOugrNjPmPnT4reKFcLRLJcjO1gL7vTiid8ql7X%2Fx%2F6oYacZrg%2FEvRwjz%2FwuPw7SjaelKXzV3Lvit0hWzn8Xg4AOQZPbZHCaPqlS5c3QGnyhY76khOvafj%2BpjFRVk3PI0xE5P7ySMsfIzj1iTde%2Bfo%2BFA%3D%3D",
+      "images": []
     },
     {
       "id": 9,
       "model": "RC390",
+      "on_sale": 0,
+      "price": "328,000",
       "make": "KTM",
       "year": "2022",
       "type": "跑車",
@@ -232,11 +288,14 @@
       "length": "2002",
       "width": "873",
       "height": "1267",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733138988.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=M2oh%2Fn66McdTm25u7LboaVqxk2ze1xYEqHFy%2BX8FzKH7pIIwRm5ZqJEkXn9HkqZhaA85T6jJJFSf2vEpbyjgtfmaPS49RqNwTO%2Bjy3UtaVQp%2BThBAOOxRiH7Q2FMqBaASspSvl%2BYIkWm5wkcewd4QbvhV0lTtmquiElN4pfgAHqLCNT7JtCovICmv1%2B2vXIt1CaHHI0llz%2FociDyPgELzfARaijEk81yZH9cyOHdY6p%2FExCtZfiQsveooEqbvLE4jvBfyGOl8Nga4A4gCwp7jmBLtKbc90xsKvK70EacncjvM7lrTSxkaPAY6luFIFtvVoLScLLkLFD91MkSYzcb%2Bw%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733138988.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=M2oh%2Fn66McdTm25u7LboaVqxk2ze1xYEqHFy%2BX8FzKH7pIIwRm5ZqJEkXn9HkqZhaA85T6jJJFSf2vEpbyjgtfmaPS49RqNwTO%2Bjy3UtaVQp%2BThBAOOxRiH7Q2FMqBaASspSvl%2BYIkWm5wkcewd4QbvhV0lTtmquiElN4pfgAHqLCNT7JtCovICmv1%2B2vXIt1CaHHI0llz%2FociDyPgELzfARaijEk81yZH9cyOHdY6p%2FExCtZfiQsveooEqbvLE4jvBfyGOl8Nga4A4gCwp7jmBLtKbc90xsKvK70EacncjvM7lrTSxkaPAY6luFIFtvVoLScLLkLFD91MkSYzcb%2Bw%3D%3D",
+      "images": []
     },
     {
       "id": 10,
       "model": "YZF-R7",
+      "on_sale": 0,
+      "price": "398,000",
       "make": "Yamaha",
       "year": "2022",
       "type": "跑車",
@@ -256,11 +315,14 @@
       "length": "2070",
       "width": "705",
       "height": "1160",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733294869.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ELCU9C36N0XTVDNDwD2t2is4Tgcb5SrtNKFptVBaVDPRtn2v5l9nip75fui%2Bi32qCSuTtTacRA%2BoCyYPgxiz6YeZ4kZEzaw6tktsQq2s%2B6EWFdKD3L5Ep8sVQ0WOfnrZfNxT0q42XRQbcjgznaB7ul%2FajaBUX2hY%2FwBCuFMsqCWccwGp0ycbAzT1B%2B8vD34wxlqUKORqDIadlb3TwZxWDSeMIUoDV05HVNZ3iI7x%2BVQZXqDGKcyD8AQGznUV6%2F8o3JsbsSNulx3CREol2CsblwGQQpoMv2fArRrOSaCAaCbFGhRd1f09q7ivSbhK4yT9JRLqv0qEHgCg0TiGE%2FhMwg%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733294869.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=ELCU9C36N0XTVDNDwD2t2is4Tgcb5SrtNKFptVBaVDPRtn2v5l9nip75fui%2Bi32qCSuTtTacRA%2BoCyYPgxiz6YeZ4kZEzaw6tktsQq2s%2B6EWFdKD3L5Ep8sVQ0WOfnrZfNxT0q42XRQbcjgznaB7ul%2FajaBUX2hY%2FwBCuFMsqCWccwGp0ycbAzT1B%2B8vD34wxlqUKORqDIadlb3TwZxWDSeMIUoDV05HVNZ3iI7x%2BVQZXqDGKcyD8AQGznUV6%2F8o3JsbsSNulx3CREol2CsblwGQQpoMv2fArRrOSaCAaCbFGhRd1f09q7ivSbhK4yT9JRLqv0qEHgCg0TiGE%2FhMwg%3D%3D",
+      "images": []
     },
     {
       "id": 11,
       "model": "TMAX560",
+      "on_sale": 0,
+      "price": "520,000",
       "make": "Yamaha",
       "year": "2021",
       "type": "大綿羊",
@@ -280,11 +342,14 @@
       "length": "2200",
       "width": "765",
       "height": "1555",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677739207471.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=AoD8hsZI3m9zS3Yws8VbKlfVKB9veJX2rCWDAp2wm185UUEdNpvtFbpKXTmO3O681j7%2FZ7gOoLQ%2BoXve0YPtnozxhReRDHCqY5%2BmdJ2sxgsXe63dE7GN%2BT0vS%2ByjpSJJNJcMb0e9m4PwBJt%2BiZlpWJidhl70EZBEX6Sc1W%2FbfQJKpywCWc8uV06BNyIK%2BvFk%2BHN03jV5rzyEAnJHEbtHJoQD%2BGNNNwMXRvZv6w8a9jmlgA6CXuW9SBqkfiYaDR%2FMm%2Fr7TUm9HFUyVTxiG%2FGUK5hPKAT6Sv410SjjkQr2DqzKbLoxP5BNoSEnQrimciZfwLiJAG6jxEcXda0ogV961g%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677739207471.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=AoD8hsZI3m9zS3Yws8VbKlfVKB9veJX2rCWDAp2wm185UUEdNpvtFbpKXTmO3O681j7%2FZ7gOoLQ%2BoXve0YPtnozxhReRDHCqY5%2BmdJ2sxgsXe63dE7GN%2BT0vS%2ByjpSJJNJcMb0e9m4PwBJt%2BiZlpWJidhl70EZBEX6Sc1W%2FbfQJKpywCWc8uV06BNyIK%2BvFk%2BHN03jV5rzyEAnJHEbtHJoQD%2BGNNNwMXRvZv6w8a9jmlgA6CXuW9SBqkfiYaDR%2FMm%2Fr7TUm9HFUyVTxiG%2FGUK5hPKAT6Sv410SjjkQr2DqzKbLoxP5BNoSEnQrimciZfwLiJAG6jxEcXda0ogV961g%3D%3D",
+      "images": []
     },
     {
       "id": 12,
       "model": "MT-09",
+      "on_sale": 0,
+      "price": "498,000",
       "make": "Yamaha",
       "year": "2021",
       "type": "街車",
@@ -304,11 +369,14 @@
       "length": "2090",
       "width": "795",
       "height": "1190",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677739160486.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=GCKBLuXmPn5GfB8gauXW0RHLAtLF5BshSfxSRcANu0pT5JzHABL9xwRrMOcSxmAG6qCCnIfqB27cxwGlNeaqU4NylYxZ0A83lG6%2FNeiBwb7Hlm3JBPwpmsz60oLYkylgLQWtXmNMfhoEXeCZ3FAssWN%2F6klqIc6kw4%2BWkx3uUSihqjLP77TfjoH21TfB8REwLVzlEAxM%2Fm3lqDc4%2BdCBZ7Z8jmVrc3tK5SgxXMEokK3uTZcXhACX3DI5Aa4s1K46OcU1cU5R1QoCInU5vai22dBZZT%2Bfv%2BnA0IaufQBTcBg%2Bfdqd5ri6dLtlaZ1QOSjmmkckREF0d5BOvzPog%2FPELQ%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677739160486.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=GCKBLuXmPn5GfB8gauXW0RHLAtLF5BshSfxSRcANu0pT5JzHABL9xwRrMOcSxmAG6qCCnIfqB27cxwGlNeaqU4NylYxZ0A83lG6%2FNeiBwb7Hlm3JBPwpmsz60oLYkylgLQWtXmNMfhoEXeCZ3FAssWN%2F6klqIc6kw4%2BWkx3uUSihqjLP77TfjoH21TfB8REwLVzlEAxM%2Fm3lqDc4%2BdCBZ7Z8jmVrc3tK5SgxXMEokK3uTZcXhACX3DI5Aa4s1K46OcU1cU5R1QoCInU5vai22dBZZT%2Bfv%2BnA0IaufQBTcBg%2Bfdqd5ri6dLtlaZ1QOSjmmkckREF0d5BOvzPog%2FPELQ%3D%3D",
+      "images": []
     },
     {
       "id": 13,
       "model": "XSR900",
+      "on_sale": 0,
+      "price": "278,000",
       "make": "Yamaha",
       "year": "2022",
       "type": "街車",
@@ -328,11 +396,14 @@
       "length": "2155",
       "width": "860",
       "height": "1155",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733232542.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VmlY4sQ%2B9I1XoaVnSP7aSGjnqvoxTj%2B2zzzUiCVB0vcpunMLan%2F2WI6VLy%2FWPHgLrgU5G%2FkVPGhQtmpo5dBhWW%2BJoJ8EAVn4F%2FhKZqKu2GJiRVXqN8ttXp0bbJ7H6vwPqGknR8N0dTKDs2z67XlrE7Vg8LmI8pG3%2B0bEd2nbGehEBCXgYngWw6R%2BnuFeCSJkvbLsLDI3GWf8FqDF%2BSd3t%2B8geCadtkFwSUuujx5%2F57So9flraj3fALkgR%2BZjSzWl9NVRhaHdar10JerhR4TjUEbAT8TxP9Sx7vXD59KBSIP8go2ozq3ezEqaktPawWeIKevd8Rc3YWO5qxCQ3TSbLw%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733232542.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=VmlY4sQ%2B9I1XoaVnSP7aSGjnqvoxTj%2B2zzzUiCVB0vcpunMLan%2F2WI6VLy%2FWPHgLrgU5G%2FkVPGhQtmpo5dBhWW%2BJoJ8EAVn4F%2FhKZqKu2GJiRVXqN8ttXp0bbJ7H6vwPqGknR8N0dTKDs2z67XlrE7Vg8LmI8pG3%2B0bEd2nbGehEBCXgYngWw6R%2BnuFeCSJkvbLsLDI3GWf8FqDF%2BSd3t%2B8geCadtkFwSUuujx5%2F57So9flraj3fALkgR%2BZjSzWl9NVRhaHdar10JerhR4TjUEbAT8TxP9Sx7vXD59KBSIP8go2ozq3ezEqaktPawWeIKevd8Rc3YWO5qxCQ3TSbLw%3D%3D",
+      "images": []
     },
     {
       "id": 14,
       "model": "Bolt 950",
+      "on_sale": 0,
+      "price": "398,000",
       "make": "Yamaha",
       "year": "2015",
       "type": "嬉皮車",
@@ -352,11 +423,14 @@
       "length": "2290",
       "width": "830",
       "height": "1120",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732495613.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=hL9qF9EGczLdisCV1oAxVrgox4fimNWhcnJTbBFSpxl6Cs0Dr%2Bs3XR5CAdUFtPWqChYO63RgOSA2lqf%2Bn0pl9WCzoRzmwQKy6Su7Nvrh8UbHUvQKHcr0YV8ZK5hltiaQSkUJI7rq0qDNi1DrcvWo%2BV9KIXSRJ1zFxNA%2Bqkc5GZSlDBDTULtnsCR9uCkj%2BpLoZS2i4KNjGnk9DAHD385N4Vj0uV5kwuXU9a6a7dbHhhfQ5%2FZHFcRcXX%2BIktiPCOoQyyVmLz%2BXfp15xv%2BC056JtS3xxUO%2FfFfoZYDpE0W3klDrE3GA%2BEmD9ZcPthoFqoyETrsfB2C2wlm7C9IYB8WnXw%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732495613.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=hL9qF9EGczLdisCV1oAxVrgox4fimNWhcnJTbBFSpxl6Cs0Dr%2Bs3XR5CAdUFtPWqChYO63RgOSA2lqf%2Bn0pl9WCzoRzmwQKy6Su7Nvrh8UbHUvQKHcr0YV8ZK5hltiaQSkUJI7rq0qDNi1DrcvWo%2BV9KIXSRJ1zFxNA%2Bqkc5GZSlDBDTULtnsCR9uCkj%2BpLoZS2i4KNjGnk9DAHD385N4Vj0uV5kwuXU9a6a7dbHhhfQ5%2FZHFcRcXX%2BIktiPCOoQyyVmLz%2BXfp15xv%2BC056JtS3xxUO%2FfFfoZYDpE0W3klDrE3GA%2BEmD9ZcPthoFqoyETrsfB2C2wlm7C9IYB8WnXw%3D%3D",
+      "images": []
     },
     {
       "id": 15,
       "model": "MT-07",
+      "on_sale": 0,
+      "price": "370,000",
       "make": "Yamaha",
       "year": "2015",
       "type": "街車",
@@ -376,11 +450,14 @@
       "length": "2085",
       "width": "745",
       "height": "1090",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733084870.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=p7N7SHxXOSWDvTlA8%2FIxumxWpfQbaSb65Pj%2FXhaEhMRpTtuzYYvimzW3BycND6TjTAZEFWavJweGpAYVpJdhBIR%2BXvcElCPbjH9b143FcCl9mCEp%2BXxVx5HndrKMzbGbkoq2WgbiRxm780XW6GumSUFyNnM4i7VsU0YFMXxcTrdkRtxy5qg76LhjYqFKpnWaivRVA6bO9Ao4AMTkLzzbDbY2R202dicT8E%2BQJ7ZXkTI7tnVw%2FsGvuFIl9wBR1gVu97Pc65nDWFLM6FgH2p0WB7aHUoaQVbScoHc1e%2FT6dIwNIHN0Flfuo5yLnqR0yGXBVwqt7eLqW9MPT2vTMD6UuQ%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733084870.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=p7N7SHxXOSWDvTlA8%2FIxumxWpfQbaSb65Pj%2FXhaEhMRpTtuzYYvimzW3BycND6TjTAZEFWavJweGpAYVpJdhBIR%2BXvcElCPbjH9b143FcCl9mCEp%2BXxVx5HndrKMzbGbkoq2WgbiRxm780XW6GumSUFyNnM4i7VsU0YFMXxcTrdkRtxy5qg76LhjYqFKpnWaivRVA6bO9Ao4AMTkLzzbDbY2R202dicT8E%2BQJ7ZXkTI7tnVw%2FsGvuFIl9wBR1gVu97Pc65nDWFLM6FgH2p0WB7aHUoaQVbScoHc1e%2FT6dIwNIHN0Flfuo5yLnqR0yGXBVwqt7eLqW9MPT2vTMD6UuQ%3D%3D",
+      "images": []
     },
     {
       "id": 16,
       "model": "MT-03",
+      "on_sale": 0,
+      "price": "265,000",
       "make": "Yamaha",
       "year": "2022",
       "type": "街車",
@@ -400,11 +477,14 @@
       "length": "2090",
       "width": "755",
       "height": "1070",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733066874.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=CkwK597gEW8%2F8xj1N6cb7FExmRpe9r51kT3dP%2Fkn26ic7tTlxdkfNzg5PMhMl0wkFjKGQyskl11aGa%2BYZVl8xtswAouwYHt9zqzm0TanGC0xCNiIixH%2Flpzs2E6Sdemc8OCjVozNIK2VOBF65%2Bo8BRiT%2BDVrwVnrJzFSitALRK42gumJFnKbmZTNsOVdaFW5%2B7%2B%2BTD57K761rhCWhLJooXoKplZEZOaOkm5ZMrlWOZPpManHnsRR5b06wUt7wtynAi8yibGQhnlAG33akqoUCAj2mBCTcYPT%2FHeVS2SLc7sIUY1zgR3DG6cbtFzBf6DQvlSGE7HlRAyzSdqhTsT%2B8w%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733066874.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=CkwK597gEW8%2F8xj1N6cb7FExmRpe9r51kT3dP%2Fkn26ic7tTlxdkfNzg5PMhMl0wkFjKGQyskl11aGa%2BYZVl8xtswAouwYHt9zqzm0TanGC0xCNiIixH%2Flpzs2E6Sdemc8OCjVozNIK2VOBF65%2Bo8BRiT%2BDVrwVnrJzFSitALRK42gumJFnKbmZTNsOVdaFW5%2B7%2B%2BTD57K761rhCWhLJooXoKplZEZOaOkm5ZMrlWOZPpManHnsRR5b06wUt7wtynAi8yibGQhnlAG33akqoUCAj2mBCTcYPT%2FHeVS2SLc7sIUY1zgR3DG6cbtFzBf6DQvlSGE7HlRAyzSdqhTsT%2B8w%3D%3D",
+      "images": []
     },
     {
       "id": 17,
       "model": "YZF-R3",
+      "on_sale": 0,
+      "price": "263,000",
       "make": "Yamaha",
       "year": "2020",
       "type": "跑車",
@@ -424,11 +504,14 @@
       "length": "2090",
       "width": "730",
       "height": "1140",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733260826.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=iux5yfxPB0Ui7pBfJ%2FVN7OdEgYO07yqKWKIA5qSYdqy5hff92BN1KH%2BGPhCc%2BjZKxgFcDithQpHo%2Ftqbhc%2BjCqJB8Iy2IQlbCYVcSPmkTV%2FwfRRF5vEr8XYS%2BpqF3w5wkGQy1QDEP5XLUWwuT1brFkL8wj4bmIVeEjCphEYEtA7t1bwcUSbscQefvyk%2FYnlmHT1CUPQrvREjKYlKyAF%2BeMu842cwQBQ66fNBs1AAxMzevZrzEybTG5Z%2BHFdfNnRq3ON2jYfPExWE2gWzHGG7AEMgJzY8tWW5ctPDY0Z%2FD6HVTV2H3f5oUZuhBBEAMhn7pN0IBhQNDw6ibcDa96FRMw%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733260826.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=iux5yfxPB0Ui7pBfJ%2FVN7OdEgYO07yqKWKIA5qSYdqy5hff92BN1KH%2BGPhCc%2BjZKxgFcDithQpHo%2Ftqbhc%2BjCqJB8Iy2IQlbCYVcSPmkTV%2FwfRRF5vEr8XYS%2BpqF3w5wkGQy1QDEP5XLUWwuT1brFkL8wj4bmIVeEjCphEYEtA7t1bwcUSbscQefvyk%2FYnlmHT1CUPQrvREjKYlKyAF%2BeMu842cwQBQ66fNBs1AAxMzevZrzEybTG5Z%2BHFdfNnRq3ON2jYfPExWE2gWzHGG7AEMgJzY8tWW5ctPDY0Z%2FD6HVTV2H3f5oUZuhBBEAMhn7pN0IBhQNDw6ibcDa96FRMw%3D%3D",
+      "images": []
     },
     {
       "id": 18,
       "model": "SF250",
+      "on_sale": 0,
+      "price": "168,000",
       "make": "Suzuki",
       "year": "2021",
       "type": "跑車",
@@ -448,11 +531,14 @@
       "length": "2010",
       "width": "740",
       "height": "1035",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733207805.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=d0qJl0HQ%2FCs8ZNaw6cqjYXMZi%2FpTSfoMz3tccvOXAKrAtzMReA5MuACEFgXhNkEMwQiCBikZY5GT0UD6IcZnqbHP3nvIOaCngXgqgi0DxzuZ8LXXvhxWKAAdG1tt6WZ9qQ40W5LcbPFuloRw%2FqhFYBSq7%2FFwPlosqd5DJ8J%2Fv%2FrMpZ7l0VfMZlhSqrk825r0I7z9gqVZ55r5JnpcdKD9Sw3vvxi2KXTdUHVhQ523CyPeGMfV4RLhNOxhsriM1kdxVcY%2B3tUhW9qrQjboR4COaUCC5x%2FvoSEh4CThYJRcBcK%2FLwkMynfY8GdjSJVmxpzp1OyYzF58q%2B5czcGS7iXcVA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733207805.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=d0qJl0HQ%2FCs8ZNaw6cqjYXMZi%2FpTSfoMz3tccvOXAKrAtzMReA5MuACEFgXhNkEMwQiCBikZY5GT0UD6IcZnqbHP3nvIOaCngXgqgi0DxzuZ8LXXvhxWKAAdG1tt6WZ9qQ40W5LcbPFuloRw%2FqhFYBSq7%2FFwPlosqd5DJ8J%2Fv%2FrMpZ7l0VfMZlhSqrk825r0I7z9gqVZ55r5JnpcdKD9Sw3vvxi2KXTdUHVhQ523CyPeGMfV4RLhNOxhsriM1kdxVcY%2B3tUhW9qrQjboR4COaUCC5x%2FvoSEh4CThYJRcBcK%2FLwkMynfY8GdjSJVmxpzp1OyYzF58q%2B5czcGS7iXcVA%3D%3D",
+      "images": []
     },
     {
       "id": 19,
       "model": "GSX S750",
+      "on_sale": 0,
+      "price": "408,000",
       "make": "Suzuki",
       "year": "2021",
       "type": "街車",
@@ -472,11 +558,14 @@
       "length": "2125",
       "width": "785",
       "height": "1055",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733021074.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=nrv4iedOMBgLMNsszomp3Tflxk5k0Dy4hhBlYjucEcIbZiFUOt2TnGIkbyJxi4ZsZtlObYYj1X0veH6To83zYzmJcC0mVPtDF%2BzgA%2FqEyYEG4GNyfZpNEjWi41teVpuI5AmDWbTVPnckiPbqEdZ5kFZzmcLcK0mKx7BuIHL7QKb0AmIqhH6bqxvsUIkzxziweDMILEJlPFblmrb3GM1%2FHc181pVZq4TFlBpbPQ1CruFzXopKUglAbBjXTPze3GiLptG27jp5uSRTGODWNoXfwoCjEC%2FqR7OMu0Xa50Par0abVKTejnrqBuV%2B%2Fw2EbB1lfUrUtvWKTzle5GahzQsiLA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733021074.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=nrv4iedOMBgLMNsszomp3Tflxk5k0Dy4hhBlYjucEcIbZiFUOt2TnGIkbyJxi4ZsZtlObYYj1X0veH6To83zYzmJcC0mVPtDF%2BzgA%2FqEyYEG4GNyfZpNEjWi41teVpuI5AmDWbTVPnckiPbqEdZ5kFZzmcLcK0mKx7BuIHL7QKb0AmIqhH6bqxvsUIkzxziweDMILEJlPFblmrb3GM1%2FHc181pVZq4TFlBpbPQ1CruFzXopKUglAbBjXTPze3GiLptG27jp5uSRTGODWNoXfwoCjEC%2FqR7OMu0Xa50Par0abVKTejnrqBuV%2B%2Fw2EbB1lfUrUtvWKTzle5GahzQsiLA%3D%3D",
+      "images": []
     },
     {
       "id": 20,
       "model": "GSX R600",
+      "on_sale": 0,
+      "price": "548,000",
       "make": "Suzuki",
       "year": "2016",
       "type": "跑車",
@@ -496,11 +585,14 @@
       "length": "2030",
       "width": "715",
       "height": "1125",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733003311.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Fx6BWRnQMU7oeAGkd41OxiOenv%2BwdLUUiou4ilON0NMb8HEN3iNovCQwS1pMtGQzhCE5JAup01hSsL8DYeQ8DeoEJh%2FjN12PRP3Sb9b7Argy1%2BqPz4rlEkG5rO9FqQ0bsfL%2Bnn%2B0dSr6mPHiI7Z6%2FTIFN8gWtFyVip0FTNs5klrsHMCoSKj0TWShhlGtfIm5Zq1M5zZ96MZE7FhDSbL7KlTiKSkbLF8VYhoOUZRCr%2BAu3%2F%2FQMhhcv8VSmJAN4zTHzZ6vGA1236RX0%2F3Lc%2FM5M5pGhujmtxcopg1ipRh5OTHgLtaA%2BDWeikj3osg2cGnEPNXjFfc8DLk59Wl1tUq8VA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733003311.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Fx6BWRnQMU7oeAGkd41OxiOenv%2BwdLUUiou4ilON0NMb8HEN3iNovCQwS1pMtGQzhCE5JAup01hSsL8DYeQ8DeoEJh%2FjN12PRP3Sb9b7Argy1%2BqPz4rlEkG5rO9FqQ0bsfL%2Bnn%2B0dSr6mPHiI7Z6%2FTIFN8gWtFyVip0FTNs5klrsHMCoSKj0TWShhlGtfIm5Zq1M5zZ96MZE7FhDSbL7KlTiKSkbLF8VYhoOUZRCr%2BAu3%2F%2FQMhhcv8VSmJAN4zTHzZ6vGA1236RX0%2F3Lc%2FM5M5pGhujmtxcopg1ipRh5OTHgLtaA%2BDWeikj3osg2cGnEPNXjFfc8DLk59Wl1tUq8VA%3D%3D",
+      "images": []
     },
     {
       "id": 21,
       "model": "Burgman 650",
+      "on_sale": 0,
+      "price": "468,000",
       "make": "Suzuki",
       "year": "2018",
       "type": "大綿羊",
@@ -520,11 +612,14 @@
       "length": "2265",
       "width": "810",
       "height": "1490",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732563086.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=fj9KykknxCHAY2e4%2F3X3LXoPgo7w1MnArpUWQj1H2eDY%2FqxcrSK0x4s%2BiDDfd7KDji7hf4w2XFn6rnK9Hnmy2QKR4X8l8re79mCxLshb7vhjABjQB16BpsT7CQ4Lcd04jEJO55xa1f3XLeGWtKMXt3NtoBRhMDn0bmzt6FukWUAqjns1JDE9Kym4JdbJOJaKV6V4DbZSruKyuyohGv5MuOry7fy2RoqWCU757hz4kcqdm0KLRtd7B%2Bys2Wcp68zI4x2%2FaClj3BlCJNmZAq29n4Yluk12q5wa5ULcCGXTJ4X4gUd5MBZUz%2FSnJCxZbudy4d6zzzUNCqildP%2F%2B4LcQbQ%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732563086.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=fj9KykknxCHAY2e4%2F3X3LXoPgo7w1MnArpUWQj1H2eDY%2FqxcrSK0x4s%2BiDDfd7KDji7hf4w2XFn6rnK9Hnmy2QKR4X8l8re79mCxLshb7vhjABjQB16BpsT7CQ4Lcd04jEJO55xa1f3XLeGWtKMXt3NtoBRhMDn0bmzt6FukWUAqjns1JDE9Kym4JdbJOJaKV6V4DbZSruKyuyohGv5MuOry7fy2RoqWCU757hz4kcqdm0KLRtd7B%2Bys2Wcp68zI4x2%2FaClj3BlCJNmZAq29n4Yluk12q5wa5ULcCGXTJ4X4gUd5MBZUz%2FSnJCxZbudy4d6zzzUNCqildP%2F%2B4LcQbQ%3D%3D",
+      "images": []
     },
     {
       "id": 22,
       "model": "GSX S1000",
+      "on_sale": 0,
+      "price": "588,000",
       "make": "Suzuki",
       "year": "2019",
       "type": "街車",
@@ -544,11 +639,14 @@
       "length": "2115",
       "width": "795",
       "height": "1080",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733052548.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=JIdxzGgNH5d%2FgWe1%2BecLvLPYEqrb0jVpNwpYEFe564tl61sAOKCLS9oz%2BWhJAWlCxgx9%2B4bFaAjYDcTX%2Bk0IX4s7VqD50Gzk%2FjQvMiyPR%2BE18q1KIwcDNPP%2FHdW5CWmWdSmVz0Ddv8YODwvri10q7j87x0VxRFDTu%2FN9ph91kaVM0IDwLXQ%2F1XgFYuCgI4zUmXIz5a23EmlaDlui2orEx2dooDTlbagjKCIh%2FUm3zkcu9kZDijGMfNY66ykholjp48KIFmTkYA8CTIufhAzCks1sr6lvTb5VioISip8rHngiy280qdyGgCE0IM%2FPnWMFMsRceCry2CxUJO0s8gmctg%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733052548.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=JIdxzGgNH5d%2FgWe1%2BecLvLPYEqrb0jVpNwpYEFe564tl61sAOKCLS9oz%2BWhJAWlCxgx9%2B4bFaAjYDcTX%2Bk0IX4s7VqD50Gzk%2FjQvMiyPR%2BE18q1KIwcDNPP%2FHdW5CWmWdSmVz0Ddv8YODwvri10q7j87x0VxRFDTu%2FN9ph91kaVM0IDwLXQ%2F1XgFYuCgI4zUmXIz5a23EmlaDlui2orEx2dooDTlbagjKCIh%2FUm3zkcu9kZDijGMfNY66ykholjp48KIFmTkYA8CTIufhAzCks1sr6lvTb5VioISip8rHngiy280qdyGgCE0IM%2FPnWMFMsRceCry2CxUJO0s8gmctg%3D%3D",
+      "images": []
     },
     {
       "id": 23,
       "model": "Z900",
+      "on_sale": 0,
+      "price": "508,000",
       "make": "Suzuki",
       "year": "2022",
       "type": "街車",
@@ -568,11 +666,14 @@
       "length": "2070",
       "width": "825",
       "height": "1080",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733304591.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=V%2F6kpyHDkRp2YVFuyQb0LcVfQb9M%2F3zMn40W2pYo7Ow%2FpAD5y9tuC9MI3rPlW5MUluGNZ2AktH9XlbaIU6%2BeCcwtkVxz6v9Q%2FYIHsjR7dnvR0FXuBCu%2BojcpUYOGGHjbUgy4zDhRaY90cG5RP%2FgHmXqi8I%2F9bgM2gtbFSmYI1ZMiDHY70PLMFM03e4AbcCJoUHorZpGF%2FOJT0cNw6uhOEC85GdNso8or%2F7j0mO3RGUeTUTkksm9iPnneW6vXCgOV11%2Fm6n1ZZwjiqU9huj5wkugkHN51JY8uW3XOmDvSDPSEw3ZJDkwnQynUFIS3QEu%2F%2BcrILwbNQA9nU3gZGhSwaQ%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733304591.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=V%2F6kpyHDkRp2YVFuyQb0LcVfQb9M%2F3zMn40W2pYo7Ow%2FpAD5y9tuC9MI3rPlW5MUluGNZ2AktH9XlbaIU6%2BeCcwtkVxz6v9Q%2FYIHsjR7dnvR0FXuBCu%2BojcpUYOGGHjbUgy4zDhRaY90cG5RP%2FgHmXqi8I%2F9bgM2gtbFSmYI1ZMiDHY70PLMFM03e4AbcCJoUHorZpGF%2FOJT0cNw6uhOEC85GdNso8or%2F7j0mO3RGUeTUTkksm9iPnneW6vXCgOV11%2Fm6n1ZZwjiqU9huj5wkugkHN51JY8uW3XOmDvSDPSEw3ZJDkwnQynUFIS3QEu%2F%2BcrILwbNQA9nU3gZGhSwaQ%3D%3D",
+      "images": []
     },
     {
       "id": 24,
       "model": "Ninja 400",
+      "on_sale": 0,
+      "price": "279,000",
       "make": "Kawasaki",
       "year": "2018",
       "type": "跑車",
@@ -592,11 +693,14 @@
       "length": "1990",
       "width": "710",
       "height": "1120",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733109855.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=T%2FON6zLFXX2X085fQOkJ2eJ4%2FhAa0Mr1jeQiZTUuvLP%2BcM8hWyuaGoZdu3mmRUr%2FPbgohp4X71HNPOrCvtslatTjVIts%2FKUmJocmexKk7cFbWx%2FzEkD%2B9rdeyJaKL%2Bf712TFzFLkBGJDkou5UaMHnV%2FQ7cksuTTM%2BljvIaiviPHBGlCW77TZR1%2FfSwq%2BvNxGZCJA%2BEcVN80IILZt%2BKQcl36z0%2BI5f1v%2FJDVkWe6%2B4CijcNkdK0llrOseL6jRNS5gnpgn8ztV5ht3TwRJADPKYDQIFEXPsVZXz8LSB9zdX8G%2FHhVT9cPnvxgYpvSQMMdmX6uaOqr9Sp0sFtx8vKkSmg%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733109855.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=T%2FON6zLFXX2X085fQOkJ2eJ4%2FhAa0Mr1jeQiZTUuvLP%2BcM8hWyuaGoZdu3mmRUr%2FPbgohp4X71HNPOrCvtslatTjVIts%2FKUmJocmexKk7cFbWx%2FzEkD%2B9rdeyJaKL%2Bf712TFzFLkBGJDkou5UaMHnV%2FQ7cksuTTM%2BljvIaiviPHBGlCW77TZR1%2FfSwq%2BvNxGZCJA%2BEcVN80IILZt%2BKQcl36z0%2BI5f1v%2FJDVkWe6%2B4CijcNkdK0llrOseL6jRNS5gnpgn8ztV5ht3TwRJADPKYDQIFEXPsVZXz8LSB9zdX8G%2FHhVT9cPnvxgYpvSQMMdmX6uaOqr9Sp0sFtx8vKkSmg%3D%3D",
+      "images": []
     },
     {
       "id": 25,
       "model": "CB300R",
+      "on_sale": 0,
+      "price": "229,000",
       "make": "Honda",
       "year": "2023",
       "type": "街車",
@@ -616,11 +720,14 @@
       "length": "2020",
       "width": "805",
       "height": "1050",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732597287.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=I3tUy6wkev0rkJJIgmPoqxCxRCmfzqCeq6ERpGbCrAoQ%2BgjRuGXlNa9Y5GpPPRt5%2BHf34m0f5Jd1C%2Bl5jvzDMIvuf%2F2n1wVphwfOZ3g8cL8EJD48eHdyJ2oxGCJM8TwIb3Gi7AoMCfSfZf%2FXxYTszXbAR%2BmKxVx4OpZ2WcGcMqqsWm7%2BdJV6mRt4oOQ4ZwsZsh%2FA5wX4mcKAGP4Sh%2BuasSF3wU8CZkMrGZ7wVF4AOCpVvf2mWCUKQcbRg7um2UOKRTee8GyhU7FZqfoWf%2FmcGEpazI0%2Fg6eu1rFtxgCYgry2fhGJkxkOAnTu2mB%2FEaksjjwZuGlVH6neObjcMAZrvA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732597287.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=I3tUy6wkev0rkJJIgmPoqxCxRCmfzqCeq6ERpGbCrAoQ%2BgjRuGXlNa9Y5GpPPRt5%2BHf34m0f5Jd1C%2Bl5jvzDMIvuf%2F2n1wVphwfOZ3g8cL8EJD48eHdyJ2oxGCJM8TwIb3Gi7AoMCfSfZf%2FXxYTszXbAR%2BmKxVx4OpZ2WcGcMqqsWm7%2BdJV6mRt4oOQ4ZwsZsh%2FA5wX4mcKAGP4Sh%2BuasSF3wU8CZkMrGZ7wVF4AOCpVvf2mWCUKQcbRg7um2UOKRTee8GyhU7FZqfoWf%2FmcGEpazI0%2Fg6eu1rFtxgCYgry2fhGJkxkOAnTu2mB%2FEaksjjwZuGlVH6neObjcMAZrvA%3D%3D",
+      "images": []
     },
     {
       "id": 26,
       "model": "CBR500R",
+      "on_sale": 0,
+      "price": "298,000",
       "make": "Honda",
       "year": "2020",
       "type": "跑車",
@@ -640,11 +747,14 @@
       "length": "2080",
       "width": "755",
       "height": "1145",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732751146.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=fNB6wnLSls0P%2F2IYKBrZC6u%2B8EjFW%2FLoAj%2BtwrVqO5FvcxJScLW27SOWzSwGD3imGrwc3cPD1T3IYVQ5252oF7xPrsK642Vy7JGypNxTX0wocQJwhLxnADfW6GE0RDQHjjcagJLLXWyAUW7X3V%2Bq%2BRdTC8YsWEecwKA5T%2Fd7Q7u3I0bTcNNw7%2BXPByDyzVk7NlKATEblZ3Rk2rSX%2BWsvTHG3lOY1zdNsj3yPjG0bYehiZPicy0ioYL%2BMdOLxWT3N83vPC8eN5xSQpRS53qBQ%2FSVi0X1CXK3CuySYWk030GEmSokgkQgUerAxWwL9xR0ywOo5dj3BMpq7CF6AuCNdBA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732751146.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=fNB6wnLSls0P%2F2IYKBrZC6u%2B8EjFW%2FLoAj%2BtwrVqO5FvcxJScLW27SOWzSwGD3imGrwc3cPD1T3IYVQ5252oF7xPrsK642Vy7JGypNxTX0wocQJwhLxnADfW6GE0RDQHjjcagJLLXWyAUW7X3V%2Bq%2BRdTC8YsWEecwKA5T%2Fd7Q7u3I0bTcNNw7%2BXPByDyzVk7NlKATEblZ3Rk2rSX%2BWsvTHG3lOY1zdNsj3yPjG0bYehiZPicy0ioYL%2BMdOLxWT3N83vPC8eN5xSQpRS53qBQ%2FSVi0X1CXK3CuySYWk030GEmSokgkQgUerAxWwL9xR0ywOo5dj3BMpq7CF6AuCNdBA%3D%3D",
+      "images": []
     },
     {
       "id": 27,
       "model": "CBR650R",
+      "on_sale": 0,
+      "price": "379,000",
       "make": "Honda",
       "year": "2022",
       "type": "跑車",
@@ -664,11 +774,14 @@
       "length": "2130",
       "width": "750",
       "height": "1150",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732816456.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=b0Xv992%2BhFADJYyQM0RKkx4RIhlO%2FyIA%2FYVmRSS0XtXpVpewZGNa0varRhFxhXnFJgQZCD5FQ2JSdzVM60CvACv0QWbHAQv4M%2BcYTpoguTr9JW5h28E%2B0CNAaOIP3rDZFF9ODmyrMyggJMqOCTxPBPONtba%2FIIYdJFQWZyD%2FodjZbbMDp9JDtdOuAG5TM8wBW57SNO%2FSq%2FsQvAupIhgQrWxl8hxxmEFnIiR%2B2MizXokNSr3RXe%2B%2FjAXi5BiScG0rpx4V5cjuvU%2BTyLsTpqJ8QDYowrohU0T7TAw1xnGBjtdBYo%2F7ClreO1qGqjN6M4uqN5fkaqvhZj2gx7lBSMG9aA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732816456.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=b0Xv992%2BhFADJYyQM0RKkx4RIhlO%2FyIA%2FYVmRSS0XtXpVpewZGNa0varRhFxhXnFJgQZCD5FQ2JSdzVM60CvACv0QWbHAQv4M%2BcYTpoguTr9JW5h28E%2B0CNAaOIP3rDZFF9ODmyrMyggJMqOCTxPBPONtba%2FIIYdJFQWZyD%2FodjZbbMDp9JDtdOuAG5TM8wBW57SNO%2FSq%2FsQvAupIhgQrWxl8hxxmEFnIiR%2B2MizXokNSr3RXe%2B%2FjAXi5BiScG0rpx4V5cjuvU%2BTyLsTpqJ8QDYowrohU0T7TAw1xnGBjtdBYo%2F7ClreO1qGqjN6M4uqN5fkaqvhZj2gx7lBSMG9aA%3D%3D",
+      "images": []
     },
     {
       "id": 28,
       "model": "CB1000R",
+      "on_sale": 0,
+      "price": "558,000",
       "make": "Honda",
       "year": "2022",
       "type": "街車",
@@ -688,11 +801,14 @@
       "length": "2115",
       "width": "789",
       "height": "1090",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732728609.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=hVXNGv4Wk6YjFf2X7sLT8sbhoojzk3NS1gsmF7d%2F9FYCCkw1zzqzn0Qvp0sy1WgaNjRxkZ9%2F5JBnMOeEaTZa8gYbwPdi%2FVM2jIiBkI64l9GgvJAYSNZMuOzj7QJ4gnk8Vq9ddHKuj2b9E4xTvHxLXNwO4yX83t0Qt0DkcaT%2Fj77NKM2YW5YLZR3z6rLqeD0LPZ2wV%2FKU4mkQ8mAb7xS4YLHR79g5vXK6gZEdi3hpb4ZYnqX7Ftv9088xzo4Uu55hoPKnEBH5EnLWvNeoZbcd7R57jql2G18%2FYOKEH6YQL3FtvSTeQLt3C7EgtuL%2F%2B3YpzZoZbwexJOt39ew3XOocew%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732728609.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=hVXNGv4Wk6YjFf2X7sLT8sbhoojzk3NS1gsmF7d%2F9FYCCkw1zzqzn0Qvp0sy1WgaNjRxkZ9%2F5JBnMOeEaTZa8gYbwPdi%2FVM2jIiBkI64l9GgvJAYSNZMuOzj7QJ4gnk8Vq9ddHKuj2b9E4xTvHxLXNwO4yX83t0Qt0DkcaT%2Fj77NKM2YW5YLZR3z6rLqeD0LPZ2wV%2FKU4mkQ8mAb7xS4YLHR79g5vXK6gZEdi3hpb4ZYnqX7Ftv9088xzo4Uu55hoPKnEBH5EnLWvNeoZbcd7R57jql2G18%2FYOKEH6YQL3FtvSTeQLt3C7EgtuL%2F%2B3YpzZoZbwexJOt39ew3XOocew%3D%3D",
+      "images": []
     },
     {
       "id": 29,
       "model": "CBR600RR",
+      "on_sale": 0,
+      "price": "678,000",
       "make": "Honda",
       "year": "2021",
       "type": "跑車",
@@ -712,11 +828,14 @@
       "length": "2020",
       "width": "685",
       "height": "1140",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732767732.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mQ6azs%2F6%2BfAAdC2LVgdD%2F0EKv6Mb45AQKrGMzIks2nZCyFJxGfLYsQLMSJCt%2Fi5lfYxNvqjlJ2qg9rlUnO%2Bi%2Fm720FTy2MvPNsfhqn9U7npgwo51cDzJf1eaFoD9QPRmnrNAdmrX79GOP5Swskjl6ga2z5WscD35vgoei%2FkuRK%2BFaBhzXQL3dvZNV%2FuMThK3LkSkfNuNOvZm33Ul4dPxkGrTaoObQw%2Bvi7Qqe4tt2qjUmHRd%2F1NmcnRaUV9ua1WggflYxhlj7%2FQD2Dudcrh6oXYy0c5iCCRXAX0uTlR8gPfbgq0qHDpJSsVMSt9xwbbE4B3koXuHwT%2F9hvg9IUuRfA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732767732.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=mQ6azs%2F6%2BfAAdC2LVgdD%2F0EKv6Mb45AQKrGMzIks2nZCyFJxGfLYsQLMSJCt%2Fi5lfYxNvqjlJ2qg9rlUnO%2Bi%2Fm720FTy2MvPNsfhqn9U7npgwo51cDzJf1eaFoD9QPRmnrNAdmrX79GOP5Swskjl6ga2z5WscD35vgoei%2FkuRK%2BFaBhzXQL3dvZNV%2FuMThK3LkSkfNuNOvZm33Ul4dPxkGrTaoObQw%2Bvi7Qqe4tt2qjUmHRd%2F1NmcnRaUV9ua1WggflYxhlj7%2FQD2Dudcrh6oXYy0c5iCCRXAX0uTlR8gPfbgq0qHDpJSsVMSt9xwbbE4B3koXuHwT%2F9hvg9IUuRfA%3D%3D",
+      "images": []
     },
     {
       "id": 30,
       "model": "CBR1000RR-R",
+      "on_sale": 0,
+      "price": "978,000",
       "make": "Honda",
       "year": "2022",
       "type": "跑車",
@@ -736,11 +855,14 @@
       "length": "2099",
       "width": "762",
       "height": "1136",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732833891.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=TXlRA8zXrWKjWO2uzWuNYFnG%2B08ym3O1Ti06SjFOZE%2BAcHDrkMyPiDapMNqdWTf4dor8PcStdJGVlm3q%2B3Hf2XbJp49Vx%2F4AptvYGDUot5BMk2uEAS5opcYIFjgQORARtaM07SS3nOzynAC%2B5M7n%2BqSbrb1%2Fxs1dIWd3p9Njtfrppd1q8j0yEzl0mPr%2B5tnS0mmIXNwPaNy3bo1QlsKBxgM%2Ff7aNpROJsEPlll2W8igrgktm3hzD3HVmMD5o0A9oj60U7sYfFP6To5RkoKwzay4o7TGuyiwgRT0dhkkYnf%2FNLTCCjGEZSltXct24fCqbLiNFSgdK73shLWPbxzquaw%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732833891.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=TXlRA8zXrWKjWO2uzWuNYFnG%2B08ym3O1Ti06SjFOZE%2BAcHDrkMyPiDapMNqdWTf4dor8PcStdJGVlm3q%2B3Hf2XbJp49Vx%2F4AptvYGDUot5BMk2uEAS5opcYIFjgQORARtaM07SS3nOzynAC%2B5M7n%2BqSbrb1%2Fxs1dIWd3p9Njtfrppd1q8j0yEzl0mPr%2B5tnS0mmIXNwPaNy3bo1QlsKBxgM%2Ff7aNpROJsEPlll2W8igrgktm3hzD3HVmMD5o0A9oj60U7sYfFP6To5RkoKwzay4o7TGuyiwgRT0dhkkYnf%2FNLTCCjGEZSltXct24fCqbLiNFSgdK73shLWPbxzquaw%3D%3D",
+      "images": []
     },
     {
       "id": 31,
       "model": "ZX-6R",
+      "on_sale": 0,
+      "price": "636,000",
       "make": "Kawasaki",
       "year": "2020",
       "type": "跑車",
@@ -760,11 +882,14 @@
       "length": "2025",
       "width": "710",
       "height": "1100",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733317006.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=NLy%2FoZ9EINbaYk4pyQEmiS75i6cNxRtBPVNItaNft8LggWHHIafA%2FPGWfPes2M%2B5%2BNYmHCuZwZyyppzky%2BXUUS0to0ZZAoelKBJQiVo8FScRp1jaBVa9lsjnpkf5n2r1aaxejalZD7Vr9mVGW5jiP8P%2F0v9XUTfGyxvcXPRqpa4nejefia3bpjgpor6JaUBj%2FQno%2BoxsB%2FKY5loXkdHXVkBkpZJeaged2w%2B%2BwXEs6nnJtog7zBj%2BLfNeQXqzGjL6ClOpDKxJKbrZljpmsK7MtwesF2fpYgWDcP6DmPjMkl2oztaEX7cgSiCfxhcAi%2FpoHtH%2BiwXHrLYpVBUmDzFq%2BA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733317006.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=NLy%2FoZ9EINbaYk4pyQEmiS75i6cNxRtBPVNItaNft8LggWHHIafA%2FPGWfPes2M%2B5%2BNYmHCuZwZyyppzky%2BXUUS0to0ZZAoelKBJQiVo8FScRp1jaBVa9lsjnpkf5n2r1aaxejalZD7Vr9mVGW5jiP8P%2F0v9XUTfGyxvcXPRqpa4nejefia3bpjgpor6JaUBj%2FQno%2BoxsB%2FKY5loXkdHXVkBkpZJeaged2w%2B%2BwXEs6nnJtog7zBj%2BLfNeQXqzGjL6ClOpDKxJKbrZljpmsK7MtwesF2fpYgWDcP6DmPjMkl2oztaEX7cgSiCfxhcAi%2FpoHtH%2BiwXHrLYpVBUmDzFq%2BA%3D%3D",
+      "images": []
     },
     {
       "id": 32,
       "model": "ZX-10R",
+      "on_sale": 0,
+      "price": "938,000",
       "make": "Kawasaki",
       "year": "2022",
       "type": "跑車",
@@ -784,11 +909,14 @@
       "length": "2085",
       "width": "750",
       "height": "1185",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733327417.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Pe4kFuMHdtRspWnsuXzBOJXr9Ap%2FwHKddX4fZw96tF4yg4NrA47yq266w7Zv6QQhys2TT6Z%2BVMSdPwWHvEecZTDy9ZhDSdpSjcX%2BmQxrSOv%2FYcO6ObvwbS4aGrUZ8V6EkVUcm8G5dc%2F8z%2BUBVm9LbUB1PN1oKXbHgBQ7hf0YLZlwXuqxee3Azf89PAA%2F76ZyhqmFDPBL1UIzxD5%2BjZT9S%2FnL4ukA13j9MApW5OSIztGmu66vqTq3u3LwAtaZ3in7uO5uH7U27hQBthi3yFjjuGP0xueUWffC%2FLDQiBN%2Fk3Cgf9jMRFZyHGbA9FM40fOXNTsuv5ixnyc1qboM61Tlng%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733327417.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=Pe4kFuMHdtRspWnsuXzBOJXr9Ap%2FwHKddX4fZw96tF4yg4NrA47yq266w7Zv6QQhys2TT6Z%2BVMSdPwWHvEecZTDy9ZhDSdpSjcX%2BmQxrSOv%2FYcO6ObvwbS4aGrUZ8V6EkVUcm8G5dc%2F8z%2BUBVm9LbUB1PN1oKXbHgBQ7hf0YLZlwXuqxee3Azf89PAA%2F76ZyhqmFDPBL1UIzxD5%2BjZT9S%2FnL4ukA13j9MApW5OSIztGmu66vqTq3u3LwAtaZ3in7uO5uH7U27hQBthi3yFjjuGP0xueUWffC%2FLDQiBN%2Fk3Cgf9jMRFZyHGbA9FM40fOXNTsuv5ixnyc1qboM61Tlng%3D%3D",
+      "images": []
     },
     {
       "id": 33,
       "model": "S1000RR",
+      "on_sale": 0,
+      "price": "1,269,000",
       "make": "BMW",
       "year": "2021",
       "type": "跑車",
@@ -808,11 +936,14 @@
       "length": "2073",
       "width": "848",
       "height": "1151",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733167416.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=pV6j08huSlmaK7qS281H6vaQO7LDWik9I%2BYbXMFp3dITZTVhSWMZ%2FFu07Mn5DNKcgmZAdZbHfxWA0GDzdvme1xxWIhsGvYF1XRQZtahS9nyqxJGzGxb2xUXztTLJoHGm2Hf5Hp9AQAvJ0%2Boj5QFjuBrZQQK8R0Ec5ZMnv5RvgD30RK3C1odKTAr6pwrcjGVRM1ff24nzLPeWka8zJuKu5tQ77T3KyLOyQFgVMrHmQWzqLVI%2F6dqTMuPOeSCOriFJapL6LPzpy4iCyDqOH%2B1p0wy3BWVuN490MoR3K42HUJlxYsaybPYUJRmgP%2BPBQhLssg0s0ukfFebPyA%2BWd7qgqw%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677733167416.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=pV6j08huSlmaK7qS281H6vaQO7LDWik9I%2BYbXMFp3dITZTVhSWMZ%2FFu07Mn5DNKcgmZAdZbHfxWA0GDzdvme1xxWIhsGvYF1XRQZtahS9nyqxJGzGxb2xUXztTLJoHGm2Hf5Hp9AQAvJ0%2Boj5QFjuBrZQQK8R0Ec5ZMnv5RvgD30RK3C1odKTAr6pwrcjGVRM1ff24nzLPeWka8zJuKu5tQ77T3KyLOyQFgVMrHmQWzqLVI%2F6dqTMuPOeSCOriFJapL6LPzpy4iCyDqOH%2B1p0wy3BWVuN490MoR3K42HUJlxYsaybPYUJRmgP%2BPBQhLssg0s0ukfFebPyA%2BWd7qgqw%3D%3D",
+      "images": []
     },
     {
       "id": 34,
       "model": "Duke390",
+      "on_sale": 0,
+      "price": "328,000",
       "make": "KTM",
       "year": "2020",
       "type": "街車",
@@ -832,11 +963,14 @@
       "length": "2145",
       "width": "740",
       "height": "800",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732940789.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=C7hj%2BZBgtrlq9dVahVc1z6LcWUX2U9WEMW2%2Fy9jZLcn23INP%2F1yR%2BtBw6HW8vaB5SgyOCLbkl0E01%2BQBeJiEc1BAV%2B%2FOBdtq4pdVwP%2FmpsOtFzEKL1V7dcegtNxoQD%2ByWdw7FhPcvdr%2FAGJfTgQneSp6n7pFyjAadqgOxAKle69kEJnsqMkilKxWDxTO6ObjeRhUmVGETmRiQyUlb7h7nb2oPqn%2Bv2wqh1gBwjNZvqTrcnweP26YidqjejjnRF9xK1Ehwt8Z7scTCetxB4mdU2bHn%2FSoa8LE14t3EgtzZHHxQiKlgwff3Yv%2BtDllIZfJh5GMe2yCmg6AbLX83h%2BBtA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732940789.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=C7hj%2BZBgtrlq9dVahVc1z6LcWUX2U9WEMW2%2Fy9jZLcn23INP%2F1yR%2BtBw6HW8vaB5SgyOCLbkl0E01%2BQBeJiEc1BAV%2B%2FOBdtq4pdVwP%2FmpsOtFzEKL1V7dcegtNxoQD%2ByWdw7FhPcvdr%2FAGJfTgQneSp6n7pFyjAadqgOxAKle69kEJnsqMkilKxWDxTO6ObjeRhUmVGETmRiQyUlb7h7nb2oPqn%2Bv2wqh1gBwjNZvqTrcnweP26YidqjejjnRF9xK1Ehwt8Z7scTCetxB4mdU2bHn%2FSoa8LE14t3EgtzZHHxQiKlgwff3Yv%2BtDllIZfJh5GMe2yCmg6AbLX83h%2BBtA%3D%3D",
+      "images": []
     },
     {
       "id": 35,
       "model": "Duke790",
+      "on_sale": 0,
+      "price": "618,000",
       "make": "KTM",
       "year": "2019",
       "type": "街車",
@@ -856,11 +990,14 @@
       "length": "2062",
       "width": "904",
       "height": "1059",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732958029.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=WX7Eq0MqrY4svjP%2B6Cz%2FwlJ7flSfYWWWYszkPO2lzn%2F3oT63QgNe6BvF994bPQV5TxgeMIr0qMXw3XgNRmpIKkG0fdnazfDEeGm0L0StaE4P7obsllLR0xcOfcdfMCntb5GCjlz95KubWDVLl%2FlD9sOlZTF83y%2BkywOighQMIF%2BMwUFe0HFUo5SLy6GiRk6VkwrfdKVUtQ96baV4kktShss2p1UrVK8a5eH8h4y0MqYqQ7c92t6u%2B5RM3dhvNORMNX3pN7Cjq4yIlxv17jMKhHe9tAoeu%2BIHPf1nCchzDJUVWy7znFvDW6yiISckqfZc1UBThteNgLET8sf6HfknFQ%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732958029.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=WX7Eq0MqrY4svjP%2B6Cz%2FwlJ7flSfYWWWYszkPO2lzn%2F3oT63QgNe6BvF994bPQV5TxgeMIr0qMXw3XgNRmpIKkG0fdnazfDEeGm0L0StaE4P7obsllLR0xcOfcdfMCntb5GCjlz95KubWDVLl%2FlD9sOlZTF83y%2BkywOighQMIF%2BMwUFe0HFUo5SLy6GiRk6VkwrfdKVUtQ96baV4kktShss2p1UrVK8a5eH8h4y0MqYqQ7c92t6u%2B5RM3dhvNORMNX3pN7Cjq4yIlxv17jMKhHe9tAoeu%2BIHPf1nCchzDJUVWy7znFvDW6yiISckqfZc1UBThteNgLET8sf6HfknFQ%3D%3D",
+      "images": []
     },
     {
       "id": 36,
       "model": "Daytona675R",
+      "on_sale": 0,
+      "price": "708,000",
       "make": "Triumph",
       "year": "2014",
       "type": "跑車",
@@ -880,11 +1017,14 @@
       "length": "2045",
       "width": "695",
       "height": "1112",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732927020.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=EIgrSXbRpTWbPsAtLxeEK%2F2YR56i136KZ7KIvAOvfK0TW29P6jMghIBPcNp5NfbJQ8g8V8IH8RjXW6bdID8f8fJ%2BBJ%2FZcHNw7D5FVqrr3%2B6W5sYwXez45c6983UpfyFmJJncZRYs6QRqmLqXTVm6G3%2BxDepYAo1E3tWjDt67pCoP1Nv08U6gSoXLsAIEm2o%2BytPTM2aj6SN9gaRMPuP%2FIkRak5lXm%2BsTr4jCjsToM8SzMJ72l39aco9o8MVywiQbRWxHsdrkKHJi5BHrZRlwTRueEjh87vj33dLNZ8Kbob1gFvr9Npl5jKrI2mE%2BGcURW3wZf1as1lly36TJXEUY0w%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732927020.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=EIgrSXbRpTWbPsAtLxeEK%2F2YR56i136KZ7KIvAOvfK0TW29P6jMghIBPcNp5NfbJQ8g8V8IH8RjXW6bdID8f8fJ%2BBJ%2FZcHNw7D5FVqrr3%2B6W5sYwXez45c6983UpfyFmJJncZRYs6QRqmLqXTVm6G3%2BxDepYAo1E3tWjDt67pCoP1Nv08U6gSoXLsAIEm2o%2BytPTM2aj6SN9gaRMPuP%2FIkRak5lXm%2BsTr4jCjsToM8SzMJ72l39aco9o8MVywiQbRWxHsdrkKHJi5BHrZRlwTRueEjh87vj33dLNZ8Kbob1gFvr9Npl5jKrI2mE%2BGcURW3wZf1as1lly36TJXEUY0w%3D%3D",
+      "images": []
     },
     {
       "id": 37,
       "model": "302R",
+      "on_sale": 0,
+      "price": "208,000",
       "make": "Benelli",
       "year": "2018",
       "type": "跑車",
@@ -904,7 +1044,8 @@
       "length": "2150",
       "width": "745",
       "height": "1115",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732435025.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=R3qcSwY%2FqkMl29gKWqX6da02%2BlIgoFwH5FWQ9bGeDz8Ox4qXM%2B3WfFxzizDOhWynnZ6FFunEqUpBeiGpKQraZgssBHbCe1JZe%2BOvc4QbQIc9%2B3q7mc6UPuhPZMyuIs%2Fp9rRqzGU%2Bpx3Nf4u1LPwdxEAaZm3mCi5ylZYcJCFwTAWkGmfnMvyFeLY2usXS%2BHAPN5H82YTnrZcGj%2FukSvhdK7MbZYYu2YMZdVtylY09Yfk2JG7iLTDj%2Bup6W3R4Z0PneFoy6HOXEkNGlvbjm3sMg6ntGNBdmHIQKyQ1sITuECe31iqV6Z3aMOrHZJ8cSa2RHT3QAzGPdsw7POhTxWVLqA%3D%3D"
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732435025.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=R3qcSwY%2FqkMl29gKWqX6da02%2BlIgoFwH5FWQ9bGeDz8Ox4qXM%2B3WfFxzizDOhWynnZ6FFunEqUpBeiGpKQraZgssBHbCe1JZe%2BOvc4QbQIc9%2B3q7mc6UPuhPZMyuIs%2Fp9rRqzGU%2Bpx3Nf4u1LPwdxEAaZm3mCi5ylZYcJCFwTAWkGmfnMvyFeLY2usXS%2BHAPN5H82YTnrZcGj%2FukSvhdK7MbZYYu2YMZdVtylY09Yfk2JG7iLTDj%2Bup6W3R4Z0PneFoy6HOXEkNGlvbjm3sMg6ntGNBdmHIQKyQ1sITuECe31iqV6Z3aMOrHZJ8cSa2RHT3QAzGPdsw7POhTxWVLqA%3D%3D",
+      "images": []
     }
   ],
   "favorites": [
@@ -973,7 +1114,7 @@
     {
       "id": 1,
       "tags": ["公告", "租賃"],
-      "created_at": 1677888000000,
+      "created_at": 1677628800000,
       "title": "聖誕假期輕鬆遊",
       "description": "假期出遊，讓重機成為您的最佳選擇！我們提供最新、最優秀的重機租賃服務，讓您暢遊在各種路況和風景中，享受獨一無二的騎行體驗！",
       "content": "隨著聖誕假期的到來，您是否正在為如何度過這個假期而苦惱？如果您正在尋找一種別樣的體驗，那麼重機租賃就是您的最佳選擇！我們提供最新、最優秀的重機租賃服務，讓您在這個假期中輕鬆遊玩，享受獨一無二的騎行體驗。在這個聖誕假期中，您可以和家人、朋友一起出遊，讓重機成為您們探索美麗風景的最佳工具！不論是經過美麗的鄉村風光，還是駛過狹窄的山路，重機都能夠帶給您一種刺激的感覺。而且，租用我們的重機，您可以享受更多的自由和彈性，讓您可以按照自己的節奏和行程自由地遊玩。除了自由、靈活的行程安排，我們還為您提供最優質的租賃服務。我們的重機設備都是最新的，經過嚴格的檢測和保養，讓您的行程更加安全和放心。我們還提供全面的保險服務，以保護您的旅程安全。此外，我們還為您提供最優惠的租賃價格，讓您可以在聖誕假期中盡情遊玩，而不必擔心財政壓力。此外，如果您邀請朋友一同租賃，您還可以享受更多的優惠和折扣。最後，我們還為您提供了完善的客戶服務和支援，以保障您在旅程中的各種需求和問題。如果您需要任何幫助或建議，我們隨時為您提供支援。在這個聖誕假期中，選擇重機租賃，讓您的旅程充滿驚喜和刺激。讓我們一起出發，探索美麗風景，享受獨一無二的騎行體驗！",
@@ -983,7 +1124,7 @@
     {
       "id": 2,
       "tags": ["特價", "租賃"],
-      "created_at": 1677801600000,
+      "created_at": 1677715200000,
       "title": "促銷活動",
       "description": "在這個秋季，與我們一起探索美麗的風景和驚險的路線！現在預訂，我們將為您提供最優惠的價格和最優秀的服務！不要錯過這個難得的機會！",
       "content": "秋季是一個充滿色彩的季節，隨著秋風拂過大地，那清新的空氣與五彩繽紛的景色，都讓人心曠神怡。如果你是一位熱愛冒險和體驗的人，那麼重機租賃可能是你的最佳選擇。在這個秋季，我們為你帶來一個難得的機會，讓你和我們一起探索美麗的風景和驚險的路線！現在預訂，我們將為您提供最優惠的價格和最優秀的服務！作為重機租賃行業的領先者，我們擁有最專業的團隊和最豐富的經驗，為您提供一站式的重機租賃服務，讓你安心出行，享受探險的樂趣。我們的車輛都是經過嚴格的選擇和檢查，確保每一輛車都能夠提供絕佳的性能和安全性。而我們的團隊則是由一群熱情、專業和有豐富經驗的人組成，為您提供最貼心的服務和最專業的建議。秋季是探險的好季節，我們的重機租賃服務將為您帶來一段難忘的體驗。無論是駛過壯麗的山川大地，還是穿越幽靜的林蔭小徑，都將是一次難以忘懷的探險之旅。而我們的促銷活動，更是讓您享受最優惠的價格和最優秀的服務。所以，現在就趕緊預訂，一起加入我們的行列吧！在這個秋季，讓我們一起探索美麗的風景和驚險的路線，享受探險的樂趣，創造屬於自己的回憶。",
@@ -993,7 +1134,7 @@
     {
       "id": 3,
       "tags": ["租賃"],
-      "created_at": 1677715200000,
+      "created_at": 1677801600000,
       "title": "結伴租車享優惠",
       "description": "享受與友人一起探索美景的樂趣！現在預訂，我們為您提供更優惠的價格和更好的服務！快邀請您的朋友加入，開啟一場驚險之旅！",
       "content": "秋天是探索大自然美景的好時光。如果您想要騎重機穿越山林，欣賞秋天的美景，但又不想一個人獨自上路，那麼現在就是一個好機會！我們的重機租賃服務現在推出了一項結伴租車的優惠活動，讓您可以與您的朋友一起享受騎車的樂趣！現在預訂，我們為您提供更優惠的價格和更好的服務！不僅如此，您的朋友也可以享受同樣的優惠。所以，快邀請您的朋友加入，一起開啟一場驚險之旅吧！我們的重機租賃服務提供了各種型號的重機，包括跑車、越野車、巡航車等等，您可以根據您的需要選擇最適合您的車型。我們也提供了全套的重機裝備，包括安全帽、手套、護膝、護肘等，讓您安全地上路。秋天的天氣有時候變幻莫測，所以我們也提供了24小時的道路救援服務，讓您隨時都可以得到協助。重機租賃的價格通常比購買一輛新車更實惠，而且您可以隨時更換不同的車型體驗不同的駕駛風格。現在，我們更推出了結伴租車的優惠活動，讓您可以與您的朋友一起享受開車的樂趣，同時還能享受更優惠的價格和更好的服務！不要再猶豫了，趕快和您的朋友一起預訂重機，開啟一場驚險之旅，一同探索秋天的美景吧！",
@@ -1003,12 +1144,14 @@
     {
       "id": 4,
       "tags": ["新車"],
-      "created_at": 1677628800000,
+      "created_at": 1677888000000,
       "title": "全新級距，調整售價",
       "description": "您的支持是我們成長動力",
       "content": "敬愛的顧客您好，謝謝您長久以來的支持與信任，為回應顧客的期待，我們將開立新級距（N），提供顧客更多的選擇，同時因車輛成本，人力成本等等壓力下，為維持服務品質，我們將在2/22號時，M級1-50km里程費調漲ㄧ元。在未來，鴻寶還有許多計畫持續進行著，APP的優化、服務的改進及制度的強化，希望在您開心騎車的同時，享受著鴻寶提供的滿心服務。如有任何疑問或需要進一步幫助，請隨時聯繫我們。再次感謝您對我們的支持與信任。此致敬禮",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677574803137.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=fomCkC5MmvdrSx5LrLuj9CHMmHGAPqdhTrBDoovX4lAuvBfn6F0Bz07Wwk51AbF2PWOrTffPjxTpT1nIHRP059hIfFc2gPcxkkSPock4Pxl0HmqwHB%2BP0Cb8Qp8%2BVlSX5YWT2HUtST5KNdJnMjynB0NvZSiIH%2BELg7UajKBScfMhZeOJg85NdXvoo%2FJQYEXIR3xtTgIaneMKVXR6mxPghXCMPg4U4jUJWrwigkJ5e8fDVA5X6q7YwEnjSCZQKE2F0U2Iz4oPQ6QV5K9p6CfDKHJ9EYUuanFTOcaUvsXfh5NLFV3wWbpWlBCkji5pafV6pJskNEbqIOGUitt866zoEw%3D%3D",
-      "images": []
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678113996396.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=iy%2F8NC2Lie2TYngqdHB7Ua1N8v%2BGkfmT0dByiFFt7YrumRByujRubVvzYR%2BXXzOFFBj7o6xeZ4k2M661oDFARutDPmPc46Xt63f06Ov%2FMscJ3%2Bq27SFz2doINV5kiupdvg%2FENDktUmQ6nMq7d8bt75zJ0Q6bYuHp2vxyIM6EcukpgDhO%2Fh47hJhBKWeCM8V%2FADpH6tL8tdM7Y5g0opn5vv%2BpOOWrgsrWvz%2BSjZncsRnKV3KMvWRMmQbkfIs5xMYlcgMzWTakBNPLCNSIWXvLCvin4vWw1SwQhKkO1zlbn0Se5FhQVBVPBEleDTDRoHD4vvqWyV0w61R%2Fch3OCNsVqg%3D%3D",
+      "images": [
+        "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678114122716.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=HaF8QoB9g7W0CkKKqbj%2BpcOScncj%2Fu0FBK8wM6uwt%2Baon5%2FwHJ%2BVX1gSJ%2FyOjec7hR6dPRVZBtK61gVMeLTsTmgC3pluVGJwK2K2QOMZka%2F5q8lfutfsbzY5nVnvb6Gpigj6kPd3FmzVIyMrLW4laqXzRfipld4Ef3qJyL4RmsuKRi9181RXxSKzDBxeOhMPIDz8jTn%2F0MLLVjtNud9NdX7qWbjuHLPESLnxof%2Bi0wNKgCDLQfQlm4%2FtyYtB89rwhrgb1QwnN3ZlbkeYZefTu5OmHCDvOSCh86y8QG25FMnajeUh%2BXZ7WUDHZWaDERjNl%2BOjNYCWREPrMXahSqk%2Fcw%3D%3D"
+      ]
     }
   ]
 }
