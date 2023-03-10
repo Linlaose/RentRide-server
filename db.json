@@ -21,6 +21,8 @@
     {
       "id": 1,
       "model": "YZF-R6",
+      "rent_date": 1677603724000,
+      "return_date": 1677776524000,
       "on_sale": 1,
       "price": "688,000",
       "make": "Yamaha",
