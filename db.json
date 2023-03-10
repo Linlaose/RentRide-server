@@ -55,8 +55,8 @@
     {
       "id": 2,
       "model": "CB650R",
-      "rent_date": null,
-      "return_date": null,
+      "rent_date": 1678982400000,
+      "return_date": 1679241599999,
       "on_sale": 1,
       "price": "378,000",
       "make": "Honda",
