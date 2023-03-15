@@ -4,16 +4,16 @@
       "email": "a123@gmail.com",
       "password": "$2a$10$Lq4yUfh1nDyd2ImAOIoVPuhX1cuuNaObs6Epp7p2a3lqPDMZE8nt2",
       "name": "Joe",
-      "birth": "87/08/07",
-      "phone": "0984324183",
+      "date": 934009320000,
+      "tel": "0984324183",
       "id": 1
     },
     {
       "email": "a1234@gmail.com",
       "password": "$2a$10$Yh4.4C8EI9ES4RW7c.uQz.BYunx5W5biecscoUzoxFWXKd0SjlWcy",
       "name": "Mary",
-      "birth": "83/03/08",
-      "phone": "0984266783",
+      "date": 763110120000,
+      "tel": "0984266783",
       "id": 2
     }
   ],
@@ -945,7 +945,7 @@
       "length": "2099",
       "width": "762",
       "height": "1136",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732833891.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=TXlRA8zXrWKjWO2uzWuNYFnG%2B08ym3O1Ti06SjFOZE%2BAcHDrkMyPiDapMNqdWTf4dor8PcStdJGVlm3q%2B3Hf2XbJp49Vx%2F4AptvYGDUot5BMk2uEAS5opcYIFjgQORARtaM07SS3nOzynAC%2B5M7n%2BqSbrb1%2Fxs1dIWd3p9Njtfrppd1q8j0yEzl0mPr%2B5tnS0mmIXNwPaNy3bo1QlsKBxgM%2Ff7aNpROJsEPlll2W8igrgktm3hzD3HVmMD5o0A9oj60U7sYfFP6To5RkoKwzay4o7TGuyiwgRT0dhkkYnf%2FNLTCCjGEZSltXct24fCqbLiNFSgdK73shLWPbxzquaw%3D%3D",
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678535182066.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=RcMh0ChFQSp7VgbVYH4QaJc4BS4R4MOFVnHkoyustnKKAwGNmz9PSvQSnNkDwUNRC9iR0uvhWQiMhPXzDtRy0wwRGIfAv%2FoHUZQoqQ6btg61FQTyH%2BDqs9LPSFsEUhJVkafoEQyjILWsamLyCp8MgjIbFyZWtM%2BXrGn%2BZPBE3CFlm94g2jIOXKlvr7%2Feel8SWc%2FWYmEBD1RBTxOehYL9nyw0UfreREItHpxvD1WieHaWdikKWPKBMf0YoXHLBwmSrEvgHwnrFLIh4OAXrrwvLqbHaw3%2Ba9YyZxLjx9WMhmAdfwdcNGOyEqfWDGQLfNCWd42z1taAVMna73Y2HecpAg%3D%3D",
       "images": []
     },
     {
@@ -1155,7 +1155,7 @@
       "length": "2150",
       "width": "745",
       "height": "1115",
-      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1677732435025.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=R3qcSwY%2FqkMl29gKWqX6da02%2BlIgoFwH5FWQ9bGeDz8Ox4qXM%2B3WfFxzizDOhWynnZ6FFunEqUpBeiGpKQraZgssBHbCe1JZe%2BOvc4QbQIc9%2B3q7mc6UPuhPZMyuIs%2Fp9rRqzGU%2Bpx3Nf4u1LPwdxEAaZm3mCi5ylZYcJCFwTAWkGmfnMvyFeLY2usXS%2BHAPN5H82YTnrZcGj%2FukSvhdK7MbZYYu2YMZdVtylY09Yfk2JG7iLTDj%2Bup6W3R4Z0PneFoy6HOXEkNGlvbjm3sMg6ntGNBdmHIQKyQ1sITuECe31iqV6Z3aMOrHZJ8cSa2RHT3QAzGPdsw7POhTxWVLqA%3D%3D",
+      "imgUrl": "https://storage.googleapis.com/vue-course-api.appspot.com/ryantsai/1678535107290.png?GoogleAccessId=firebase-adminsdk-zzty7%40vue-course-api.iam.gserviceaccount.com&Expires=1742169600&Signature=W1hJ7N6lMka805zEk3BVmR9FaqXm%2FoMEsGCvmCNSw1DPMMJPH5T0XOtvcRP6myy26%2BP1%2FT%2FFzfP2F%2FGbir0HJkSd%2FmebUXMoUJ%2Fnb0sYjkCe51hKaX0uuGmVV9CqreeB16O1jXmKL6xKGgHBiRWpXSJjAaDIdKI0Q5wWWVJnUrI2zK8LjmovrV9oE4k6uz1%2FiVTfZN0zchmRoOEv3yJ9xy6h0I4oju2clPPVkjR46OQnWJK4tlXWOK%2F0%2F0VCtg1lqnOAOzE98Zfw2RhLqUGguSmdwrcXQHE%2FiY6w%2FihtxR3kQmpGf3ACgiQ5ZZdCivcJ%2FNBBj5%2FDbq58J07%2FuPBa1A%3D%3D",
       "images": []
     }
   ],
@@ -1205,20 +1205,18 @@
     {
       "id": 1,
       "userId": 1,
-      "pick_up": 1678078800000,
-      "return": 1678338000000,
-      "price": "350",
-      "rent_price": "",
+      "pick_up": 1677603724000,
+      "return": 1677776524000,
+      "price": "550",
       "bike_year": "2020",
-      "bike_model": "ZX-6R"
+      "bike_model": "CB650R"
     },
     {
       "id": 2,
       "userId": 2,
-      "pick_up": 1678078800000,
-      "return": 1678338000000,
-      "price": "350",
-      "rent_price": "",
+      "pick_up": 1678982400000,
+      "return": 1679241599999,
+      "price": "650",
       "bike_year": "2020",
       "bike_model": "YZF-R6"
     }
