@@ -1168,18 +1168,18 @@
     {
       "id": 1,
       "userId": 1,
-      "pick_up": 1678078800000,
-      "return": 1678338000000,
-      "price": "350",
+      "pick_up": 1677603724000,
+      "return": 1677776524000,
+      "price": "550",
       "bike_year": "2020",
-      "bike_model": "ZX-6R"
+      "bike_model": "CB650R"
     },
     {
       "id": 2,
       "userId": 2,
-      "pick_up": 1678078800000,
-      "return": 1678338000000,
-      "price": "350",
+      "pick_up": 1678982400000,
+      "return": 1679241599999,
+      "price": "650",
       "bike_year": "2020",
       "bike_model": "YZF-R6"
     }
