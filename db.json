@@ -4,7 +4,7 @@
       "email": "a123@gmail.com",
       "password": "$2a$10$Lq4yUfh1nDyd2ImAOIoVPuhX1cuuNaObs6Epp7p2a3lqPDMZE8nt2",
       "name": "Joe",
-      "date": 934009320,
+      "date": 934009320000,
       "tel": "0984324183",
       "id": 1
     },
@@ -12,7 +12,7 @@
       "email": "a1234@gmail.com",
       "password": "$2a$10$Yh4.4C8EI9ES4RW7c.uQz.BYunx5W5biecscoUzoxFWXKd0SjlWcy",
       "name": "Mary",
-      "date": 763110120,
+      "date": 763110120000,
       "tel": "0984266783",
       "id": 2
     }
