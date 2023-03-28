@@ -21,6 +21,7 @@
     {
       "id": 1,
       "model": "YZF-R6",
+      "rank": 3,
       "rent_date": 1677603724000,
       "return_date": 1677776524000,
       "on_sale": 1,
@@ -273,6 +274,7 @@
     {
       "id": 8,
       "model": "RS660",
+      "rank": 1,
       "rent_date": null,
       "return_date": null,
       "on_sale": 1,
@@ -795,6 +797,7 @@
     {
       "id": 24,
       "model": "Ninja 400",
+      "rank": 2,
       "rent_date": null,
       "return_date": null,
       "on_sale": 1,
